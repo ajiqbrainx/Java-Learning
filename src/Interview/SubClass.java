@@ -14,5 +14,8 @@ public class SubClass {
          Child child=new Child();
          child.publicCheck();
          child.privatCheck();
+
+//         ProtectedCheck protectedCheck=new ProtectedCheck();
+//         protectedCheck.check();
      }
 }

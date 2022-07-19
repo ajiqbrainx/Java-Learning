@@ -1,10 +1,14 @@
 package Basics;
 
+
+
 import java.util.Scanner;
 
 public class Range {
 
     public static void main(String[] args) {
+
+
         Scanner scanner=new Scanner(System.in);
         String s=scanner.toString();
         int N = scanner.nextInt();

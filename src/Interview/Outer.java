@@ -25,6 +25,11 @@ public class Outer {
     public static void main(String[] args) {
         Outer outer = new Outer();
         outer.show();
+        PrivateClass privateClass=new PrivateClass();
+
+
+//        ProtectedCheck protectedCheck=new ProtectedCheck();
+//        protectedCheck.check();
 
 
     }
