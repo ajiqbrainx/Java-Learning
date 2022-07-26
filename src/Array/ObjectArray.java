@@ -9,12 +9,10 @@ public class ObjectArray {
         this.age = age1;
         this.name1 = name;
     }
-
     public void display() {
         System.out.println("Name : " + name1);
         System.out.println("Age : " + age);
     }
-
 }
 
 class Main {
