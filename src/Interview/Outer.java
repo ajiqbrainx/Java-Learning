@@ -9,9 +9,7 @@ public class Outer {
         // We can Access the private methods and fields ...
         private void add() {
             System.out.println(a + b + " Its inner class");
-
         }
-
     }
 
     public void show() {
