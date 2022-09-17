@@ -88,3 +88,13 @@ P
  src/Interview/StaticMethods.java,c\8\c8d81b14bdbdf8e61ac84a97f7578b18f46209f9
 Q
 !src/Basics/MethodOverloading.java,9\d\9d7963b39603eb6cf489e18f286693b7e7e32349
+K
+src/Interview/AbsClass.java,4\b\4b3dd1f88c5df96003cd6674ffb28c9dd6054e79
+S
+#src/Interview/InterfaceExample.java,5\0\500095f318de7e3f1b680e4e1b6dbaec23eeaa7f
+S
+#src/InnerClass/LocalinnerClass.java,9\c\9c644f7b05922d5924b98e2fb50da7900044e445
+X
+(src/Inheritance/MultipleInheritance.java,a\b\abf12436e46c93bafbb0fa95fa7e575b978e10db
+O
+src/InnerClass/NestedInner.java,f\b\fbde5d687afc76703a0887aff2041ac471576cd2
