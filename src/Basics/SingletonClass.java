@@ -26,5 +26,7 @@ public class SingletonClass {
     public static void main(String[] args) {
         Aji aji =Aji.get();
         aji.print();
+
+
     }
 }
