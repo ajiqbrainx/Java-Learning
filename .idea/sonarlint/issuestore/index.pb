@@ -28,14 +28,10 @@ F
 src/Loops/DoWhile.java,2\1\21b07ea58da0f4a5fdabd4c15455438a39240b4a
 O
 src/Interview/FinalKeyWord.java,8\6\8679849cbd24865f26ccbde4ee89cb09d9fe6e23
-R
-"src/Operator/TerinaryOperator.java,a\d\ad8d4a51a6fdbd5dfceea3bee93951f4f7ff9e4b
 E
 src/Basics/Range.java,4\8\4829cd10c7de24110967773137d6a88d08374d9b
 N
 src/Basics/InterfaceClass.java,4\f\4fe4f3017f58f65c684e89a304b10402df49d3de
-W
-'src/Collection/MethodsInCollection.java,f\2\f2b1d7a55962e3d8634c3baf3e7926d989d601a8
 O
 src/Interview/RandomMethod.java,5\3\53b98d9c65efcf32d4c452f9e781f09fc1fb7d35
 K
@@ -120,8 +116,6 @@ I
 src/Practice/Static1.java,2\e\2e4ade00f1d72ca4e074e0db1b3376c26e4c8878
 p
 @src/Java8Features/MethodReference/ConstructorMethodRefernce.java,5\8\581fea0669fb2e904d699c8adb62ac587ff77a53
-Z
-*src/Java8Features/Streams/FilterMovie.java,0\8\08da5ae1ceeb0887c269d5a1a90a3973175c3c3a
 e
 5src/Java8Features/MethodReference/InstanceMethod.java,d\a\da6111c0f7cafcb0df246361cad5b5f51849083c
 X
@@ -152,8 +146,6 @@ G
 src/Coding/Factors.java,d\2\d214e2321b94f8c9bc6eddba85ee904923d7c458
 M
 src/Coding/ReverseNumber.java,1\f\1f90f7040f17046d0b33b9a7fab9dfc7f541516e
-J
-src/Java8Coding/Count.java,8\b\8b09b6c04f7b03b843608be24cda0de4b36ecebb
 Z
 *src/Java8Coding/DuplicateElementsList.java,6\0\60ab1bf32bf6f94f953618652b3c19d0a3bb27ba
 M
@@ -168,3 +160,17 @@ Y
 )src/Java8Coding/FirstRepeatCharacter.java,d\8\d874ae6477f2d2522d3e81610714bd2cf2a69ea9
 N
 src/Basics/DynamicBinding.java,4\7\47c746af58981054eb67bdf251f2a541e3d3538c
+w
+G.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,e\d\ed67eb178d523a4b3f117dcbe0eda5196367ceec
+w
+G.idea/sonarlint/issuestore/d/d/dd7b3350c29c49497756c7f32c69a3bed18b1cba,9\d\9db44714da783e82392884aeea0d83f0125570ed
+w
+G.idea/sonarlint/issuestore/6/e/6ecd6000a7b6f4a2884412ff19f74193ed089648,3\8\38464f72ef55196e32fe4dfbcc50f1cda5f4cb5d
+w
+G.idea/sonarlint/issuestore/f/f/ff05e5e4856a8103ca7244dae1764f14752d036d,0\7\07cacfeca632b9a41de70fb90dc32931b4ad4e10
+P
+ src/Java8Coding/StartWith10.java,b\b\bb5179b1f2461b2f85e96ca270bbc8928b4742ba
+N
+src/Basics/SingletonClass.java,a\f\af2d0d22473b7154984072687b06437cb41df430
+W
+'src/Collection/MethodsInCollection.java,f\2\f2b1d7a55962e3d8634c3baf3e7926d989d601a8

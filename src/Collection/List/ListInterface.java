@@ -1,4 +1,6 @@
-package Collection;
+package Collection.List;
+
+import java.util.*;
 
 public class ListInterface {
 
@@ -12,7 +14,7 @@ public class ListInterface {
 //        number.remove(1);
 //        System.out.println(number);
 //
-//        List<String>name=new ArrayList<>();
+//        List<String> name=new ArrayList<>;
 //        name.add("Ajith");
 //        name.add("Ashok");
 //        System.out.println(name);
