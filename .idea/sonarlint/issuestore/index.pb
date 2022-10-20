@@ -54,10 +54,6 @@ T
 $src/AccessSpecifier/ProtectedEx.java,d\9\d9ddae8aa3d12617dfed72d7f8673aaab7df5447
 O
 src/Basics/GetterAndSetter.java,f\9\f9509ca8e38774ebb79fd918e9b9c4ea57c05bd9
-W
-'src/Array/ArrayCollectionDataTypes.java,1\8\181be72bfa9bf26cec2aaf31ccad790494b37492
-O
-src/Array/ObjectCollection.java,c\9\c9d871725e2cc73ca48f201fcf61bc528a35d327
 T
 $src/Constructor/CopyConstructor.java,9\1\918aa07efd37f3fa48dcb19962f990db63efe303
 W
@@ -102,8 +98,6 @@ G
 src/Basics/VarArgs.java,2\b\2b2278bb23a7b391742ce1b37511d11ea25771a4
 K
 src/Basics/Enumeration.java,8\e\8ea9098107157d65145e89e9637359dea206be8c
-J
-src/Array/ObjectArray.java,c\3\c3f6ed7507ee6fda38daf65650e20be9379590f8
 K
 src/Interview/Generics.java,f\7\f7851c3978494ec637f5d3529534c98d5fdef478
 W
@@ -174,3 +168,27 @@ N
 src/Basics/SingletonClass.java,a\f\af2d0d22473b7154984072687b06437cb41df430
 W
 'src/Collection/MethodsInCollection.java,f\2\f2b1d7a55962e3d8634c3baf3e7926d989d601a8
+J
+src/Java8Coding/Count.java,8\b\8b09b6c04f7b03b843608be24cda0de4b36ecebb
+Z
+*src/Java8Features/Streams/FilterMovie.java,0\8\08da5ae1ceeb0887c269d5a1a90a3973175c3c3a
+w
+G.idea/sonarlint/issuestore/3/8/38464f72ef55196e32fe4dfbcc50f1cda5f4cb5d,3\2\321aaafb2af18638e1e1afcdb621f2103c20f88b
+w
+G.idea/sonarlint/issuestore/0/7/07cacfeca632b9a41de70fb90dc32931b4ad4e10,6\0\60aa88fa15f77fbab1995678c11a17d5d849fb35
+w
+G.idea/sonarlint/issuestore/9/d/9db44714da783e82392884aeea0d83f0125570ed,2\e\2e19a4ba2d2e5f3cae9976fda549f2d93663c9c6
+w
+G.idea/sonarlint/issuestore/e/d/ed67eb178d523a4b3f117dcbe0eda5196367ceec,8\a\8a6dae537be9f47878c6964c6ee40cab0ca75e28
+V
+&src/Collection/List/ListInterface.java,8\6\862f791bd9a3e5b708465b98c5ce82a007eba852
+L
+src/Java8Coding/NonNull.java,d\6\d6ea60cf32dbf0498d051e9d5a4b8510b3d8c390
+J
+src/Practice/Terinary.java,2\e\2eeb976a1f02a3b612ba1aad74d5d28442250f73
+R
+"src/Operator/TerinaryOperator.java,a\d\ad8d4a51a6fdbd5dfceea3bee93951f4f7ff9e4b
+O
+src/Array/ObjectCollection.java,c\9\c9d871725e2cc73ca48f201fcf61bc528a35d327
+W
+'src/Array/ArrayCollectionDataTypes.java,1\8\181be72bfa9bf26cec2aaf31ccad790494b37492

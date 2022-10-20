@@ -1,0 +1,14 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯ñ¿ï
+a
+java:S4143"FVerify this is the index that was intended; it was already set before.(–àøáùÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(†Æ¨ˆıÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ñ±µÈùÿÿÿÿ
+E
+java:S1197!"*Move the array designators [] to the type.(ßóÏ‚ùÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(ç´×h
+Q	java:S125%"<This block of commented-out lines of code should be removed.(²İ±­
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ıÂ“¹
+<
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ

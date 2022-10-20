@@ -14,9 +14,9 @@ public class ListExample {
         list.add(34);
         list.add(23);
 
-//        list.forEach(System.out::println);
-        List<Integer> fail = list.stream().filter(number -> number < 50).collect(Collectors.toList());
-        System.out.println(fail);
+        list.forEach(System.out::println);
+//        List<Integer> fail = list.stream().filter(number -> number < 50).collect(Collectors.toList());
+//        System.out.println(fail);
 
     }
 }
