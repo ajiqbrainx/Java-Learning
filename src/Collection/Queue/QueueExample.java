@@ -14,7 +14,7 @@ public class QueueExample {
         queue.add(2);
 
         System.out.println(queue);
-        queue.poll();
+        queue.poll();   //First in First out ...It will be working..
         System.out.println(queue);
     }
 }

@@ -13,7 +13,8 @@ public class ListExample {
         list.add(90);
         list.add(34);
         list.add(23);
-
+        List<String> name = new ArrayList<>();
+        name.add(null);
         list.forEach(System.out::println);
 //        List<Integer> fail = list.stream().filter(number -> number < 50).collect(Collectors.toList());
 //        System.out.println(fail);

@@ -166,8 +166,6 @@ P
  src/Java8Coding/StartWith10.java,b\b\bb5179b1f2461b2f85e96ca270bbc8928b4742ba
 N
 src/Basics/SingletonClass.java,a\f\af2d0d22473b7154984072687b06437cb41df430
-W
-'src/Collection/MethodsInCollection.java,f\2\f2b1d7a55962e3d8634c3baf3e7926d989d601a8
 J
 src/Java8Coding/Count.java,8\b\8b09b6c04f7b03b843608be24cda0de4b36ecebb
 Z
@@ -192,3 +190,11 @@ O
 src/Array/ObjectCollection.java,c\9\c9d871725e2cc73ca48f201fcf61bc528a35d327
 W
 'src/Array/ArrayCollectionDataTypes.java,1\8\181be72bfa9bf26cec2aaf31ccad790494b37492
+w
+G.idea/sonarlint/issuestore/3/2/321aaafb2af18638e1e1afcdb621f2103c20f88b,b\b\bb65530358544b31386bf5ded0875253f78be4e5
+w
+G.idea/sonarlint/issuestore/8/a/8a6dae537be9f47878c6964c6ee40cab0ca75e28,8\e\8e3d5572111947a6fc62da316a319faf3e927047
+w
+G.idea/sonarlint/issuestore/6/0/60aa88fa15f77fbab1995678c11a17d5d849fb35,6\d\6d365f833f145e3eca63a6af5482f5e6b926ec52
+w
+G.idea/sonarlint/issuestore/2/e/2e19a4ba2d2e5f3cae9976fda549f2d93663c9c6,f\6\f6fdf9b628936c42973144a4e137f207734e4f37
