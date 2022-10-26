@@ -3,8 +3,9 @@ package Basics;
 
 public class Enumeration {
     enum Status {
+
         CHECK,
-        OK;
+        OK
     }
 
     public static void main(String[] args) {
