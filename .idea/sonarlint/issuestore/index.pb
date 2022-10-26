@@ -234,5 +234,3 @@ w
 G.idea/sonarlint/issuestore/6/d/6d365f833f145e3eca63a6af5482f5e6b926ec52,8\3\832f6e5c182e3c851cb318da704721bb8c660e1f
 w
 G.idea/sonarlint/issuestore/8/e/8e3d5572111947a6fc62da316a319faf3e927047,9\8\98cdda3e00c24ac72814f7f2d393d547a1eae62b
-`
-0src/Collection/Map/ConcurrentHashMapExample.java,e\b\ebf5026aae093cbe414ea8b66f16eeecdae0bed1
