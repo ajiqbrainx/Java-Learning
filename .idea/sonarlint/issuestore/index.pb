@@ -234,3 +234,13 @@ w
 G.idea/sonarlint/issuestore/6/d/6d365f833f145e3eca63a6af5482f5e6b926ec52,8\3\832f6e5c182e3c851cb318da704721bb8c660e1f
 w
 G.idea/sonarlint/issuestore/8/e/8e3d5572111947a6fc62da316a319faf3e927047,9\8\98cdda3e00c24ac72814f7f2d393d547a1eae62b
+K
+src/Basics/Enumeration.java,8\e\8ea9098107157d65145e89e9637359dea206be8c
+w
+G.idea/sonarlint/issuestore/8/3/832f6e5c182e3c851cb318da704721bb8c660e1f,0\a\0a64036e6e247a7d4b40dba604af08a2d37000f7
+w
+G.idea/sonarlint/issuestore/9/8/98cdda3e00c24ac72814f7f2d393d547a1eae62b,0\d\0d28653d051caac2a22e9fa58452afea58a3fe38
+w
+G.idea/sonarlint/issuestore/7/7/7735b7dd49fa156d97db009b88a7b2423dbf5dcd,c\e\ceda063bb67be09850a4d17067d5f2667089c4c9
+w
+G.idea/sonarlint/issuestore/0/9/0901f062607b528e639ae8c5bdb21eacf179272c,b\c\bc80d5ace5cce77ad77fe05f117d50eba08edaaf
