@@ -134,8 +134,6 @@ G
 src/Coding/OddEven.java,4\8\488e556ce9badf60cee153bf8cb892439caf11ac
 I
 src/Coding/PairCount.java,7\6\7660148effae9c1adcdd45edb221fa8361676056
-G
-src/Coding/Factors.java,d\2\d214e2321b94f8c9bc6eddba85ee904923d7c458
 M
 src/Coding/ReverseNumber.java,1\f\1f90f7040f17046d0b33b9a7fab9dfc7f541516e
 Z
