@@ -252,3 +252,7 @@ w
 G.idea/sonarlint/issuestore/0/a/0a64036e6e247a7d4b40dba604af08a2d37000f7,2\6\26bbf29f3bff6f5135e885e0abefafe158d0c1c9
 w
 G.idea/sonarlint/issuestore/c/e/ceda063bb67be09850a4d17067d5f2667089c4c9,5\3\5385605c63dac1bdad7bc2f3daee1602017d626d
+P
+ src/Practice/LastThreeChart.java,d\7\d777983de34961f8c58debd7cd831bc80551315f
+P
+ src/JavaInterview/Recursion.java,e\8\e86973b276d6d3ac3c319f1d0f07dbe6d88f298e
