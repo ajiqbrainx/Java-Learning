@@ -254,3 +254,13 @@ P
  src/Practice/LastThreeChart.java,d\7\d777983de34961f8c58debd7cd831bc80551315f
 P
  src/JavaInterview/Recursion.java,e\8\e86973b276d6d3ac3c319f1d0f07dbe6d88f298e
+U
+%src/JavaInterview/SwapTwoNumbers.java,e\1\e13da97c54eca8155f65666fa776c0c822a9d378
+T
+$src/JavaInterview/ReverseString.java,b\e\be6d45550ea8e10542ae04944446fb4c65f0a09f
+M
+src/JavaInterview/Vowels.java,7\d\7d2c2e6a42b4fccd9a8f3dbd8db67afdfd5031d8
+G
+src/Coding/Factors.java,d\2\d214e2321b94f8c9bc6eddba85ee904923d7c458
+R
+"src/JavaInterview/PrimeNumber.java,2\0\2047c49f902d3c475746e0e0a6b4b32d989d172b
