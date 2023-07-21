@@ -264,3 +264,7 @@ G
 src/Coding/Factors.java,d\2\d214e2321b94f8c9bc6eddba85ee904923d7c458
 R
 "src/JavaInterview/PrimeNumber.java,2\0\2047c49f902d3c475746e0e0a6b4b32d989d172b
+N
+src/JavaInterview/OddList.java,8\4\8482190388d96cf379de511ca81a7dcc31c98b41
+W
+'src/JavaInterview/PalindromeString.java,7\8\782e73b656909f017fb9de72b916da1ade238249
