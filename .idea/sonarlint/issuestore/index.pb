@@ -268,3 +268,9 @@ N
 src/JavaInterview/OddList.java,8\4\8482190388d96cf379de511ca81a7dcc31c98b41
 W
 'src/JavaInterview/PalindromeString.java,7\8\782e73b656909f017fb9de72b916da1ade238249
+P
+ src/JavaInterview/Factorial.java,8\8\88a50729d33d702d6416f27fa500f08e1d95ce29
+\
+,src/JavaInterview/SpaceRemoverCharacter.java,7\2\72b7504fe010f20388c1288db9da470e8bda0e5e
+S
+#src/JavaInterview/SpaceRemover.java,9\c\9c06e0d5f2cfdc498a8883c2420c8142e17eaf13
