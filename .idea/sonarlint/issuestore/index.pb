@@ -70,8 +70,6 @@ O
 src/Inheritance/MultiLevel.java,7\9\7953123ee99f543ec1ea7c3ecd78674073d3ecc6
 Q
 !src/Inheritance/Hierarchical.java,7\3\7394f92809873e4978b85246cddf0bf69eededb7
-G
-src/git/GitConnect.java,4\b\4b953b4022bee95684c2cecb19a3a6bd480ceea7
 P
  src/Interview/StaticMethods.java,c\8\c8d81b14bdbdf8e61ac84a97f7578b18f46209f9
 Q
@@ -132,8 +130,6 @@ I
 src/Coding/Fibonacci.java,0\e\0e7087f211ca4849acea91b89b2ce48fac653382
 G
 src/Coding/OddEven.java,4\8\488e556ce9badf60cee153bf8cb892439caf11ac
-I
-src/Coding/PairCount.java,7\6\7660148effae9c1adcdd45edb221fa8361676056
 M
 src/Coding/ReverseNumber.java,1\f\1f90f7040f17046d0b33b9a7fab9dfc7f541516e
 Z
