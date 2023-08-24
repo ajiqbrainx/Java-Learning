@@ -132,18 +132,12 @@ G
 src/Coding/OddEven.java,4\8\488e556ce9badf60cee153bf8cb892439caf11ac
 M
 src/Coding/ReverseNumber.java,1\f\1f90f7040f17046d0b33b9a7fab9dfc7f541516e
-Z
-*src/Java8Coding/DuplicateElementsList.java,6\0\60ab1bf32bf6f94f953618652b3c19d0a3bb27ba
-M
-src/Java8Coding/MaxValue.java,1\6\1689b25d9bb81a1d92fd01a27e215806598807c6
 L
 src/Java8Coding/OddEven.java,d\e\de86697880cd31ccaee6672393444805e5013052
 J
 src/Coding/Palindrome.java,2\8\285590d541d6c6a3047e9cd5508f8705fe84dc14
 L
 src/Coding/PrimeNumbers.java,3\4\34f951f3aa3cd943a8d5826532110d804b2a0e49
-Y
-)src/Java8Coding/FirstRepeatCharacter.java,d\8\d874ae6477f2d2522d3e81610714bd2cf2a69ea9
 N
 src/Basics/DynamicBinding.java,4\7\47c746af58981054eb67bdf251f2a541e3d3538c
 w
@@ -158,8 +152,6 @@ P
  src/Java8Coding/StartWith10.java,b\b\bb5179b1f2461b2f85e96ca270bbc8928b4742ba
 N
 src/Basics/SingletonClass.java,a\f\af2d0d22473b7154984072687b06437cb41df430
-J
-src/Java8Coding/Count.java,8\b\8b09b6c04f7b03b843608be24cda0de4b36ecebb
 Z
 *src/Java8Features/Streams/FilterMovie.java,0\8\08da5ae1ceeb0887c269d5a1a90a3973175c3c3a
 w

@@ -1,8 +1,0 @@
-
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…óöÛ
-f
-java:S3655
-"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¡ˆ¸ç
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ââô·ûÿÿÿÿ8êè¶µ0
-T
-java:S1128"9Remove this unused import 'java.util.ListResourceBundle'.(ÄÄÇÿÿÿÿÿ
