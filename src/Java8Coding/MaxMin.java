@@ -1,8 +1,6 @@
 package Java8Coding;
 
 import java.util.Arrays;
-import java.util.Comparator;
-import java.util.ListResourceBundle;
 import java.util.List;
 
 public class MaxMin {

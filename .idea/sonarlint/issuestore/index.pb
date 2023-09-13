@@ -244,16 +244,12 @@ P
  src/JavaInterview/Recursion.java,e\8\e86973b276d6d3ac3c319f1d0f07dbe6d88f298e
 U
 %src/JavaInterview/SwapTwoNumbers.java,e\1\e13da97c54eca8155f65666fa776c0c822a9d378
-T
-$src/JavaInterview/ReverseString.java,b\e\be6d45550ea8e10542ae04944446fb4c65f0a09f
 M
 src/JavaInterview/Vowels.java,7\d\7d2c2e6a42b4fccd9a8f3dbd8db67afdfd5031d8
 G
 src/Coding/Factors.java,d\2\d214e2321b94f8c9bc6eddba85ee904923d7c458
 R
 "src/JavaInterview/PrimeNumber.java,2\0\2047c49f902d3c475746e0e0a6b4b32d989d172b
-N
-src/JavaInterview/OddList.java,8\4\8482190388d96cf379de511ca81a7dcc31c98b41
 W
 'src/JavaInterview/PalindromeString.java,7\8\782e73b656909f017fb9de72b916da1ade238249
 P
@@ -262,3 +258,23 @@ P
 ,src/JavaInterview/SpaceRemoverCharacter.java,7\2\72b7504fe010f20388c1288db9da470e8bda0e5e
 S
 #src/JavaInterview/SpaceRemover.java,9\c\9c06e0d5f2cfdc498a8883c2420c8142e17eaf13
+O
+src/JavaInterview/ArraySum.java,5\7\571ba1aacabd5a287f235d3893cbe51fcfff3406
+O
+src/JavaInterview/DeadLock.java,d\a\da25871674fb82ed84a34b8acd0f44d227601b47
+G
+src/git/GitConnect.java,4\b\4b953b4022bee95684c2cecb19a3a6bd480ceea7
+I
+src/Coding/PairCount.java,7\6\7660148effae9c1adcdd45edb221fa8361676056
+Y
+)src/JavaInterview/SecondLargestArray.java,c\f\cfc6f4753f5566185ac91dba76d7d6037f917e49
+`
+0src/Interview/HighestRepeatingElementsCount.java,1\3\131d24ef13f3cb281c3eb1761f73f6262177aca6
+Z
+*src/Java8Coding/DuplicateElementsList.java,6\0\60ab1bf32bf6f94f953618652b3c19d0a3bb27ba
+Q
+!src/JavaInterview/Occurrence.java,4\1\4158ca34a20542bc5ab2d72ed19fcf9da2c7d8fa
+J
+src/Java8Coding/Count.java,8\b\8b09b6c04f7b03b843608be24cda0de4b36ecebb
+Y
+)src/Java8Coding/FirstRepeatCharacter.java,d\8\d874ae6477f2d2522d3e81610714bd2cf2a69ea9
