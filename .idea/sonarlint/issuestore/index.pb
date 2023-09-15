@@ -148,8 +148,6 @@ w
 G.idea/sonarlint/issuestore/f/f/ff05e5e4856a8103ca7244dae1764f14752d036d,0\7\07cacfeca632b9a41de70fb90dc32931b4ad4e10
 N
 src/Basics/SingletonClass.java,a\f\af2d0d22473b7154984072687b06437cb41df430
-Z
-*src/Java8Features/Streams/FilterMovie.java,0\8\08da5ae1ceeb0887c269d5a1a90a3973175c3c3a
 w
 G.idea/sonarlint/issuestore/3/8/38464f72ef55196e32fe4dfbcc50f1cda5f4cb5d,3\2\321aaafb2af18638e1e1afcdb621f2103c20f88b
 w
