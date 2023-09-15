@@ -9,16 +9,8 @@ Y
 )src/JavaInterview/SecondLargestArray.java,c\f\cfc6f4753f5566185ac91dba76d7d6037f917e49
 `
 0src/Interview/HighestRepeatingElementsCount.java,1\3\131d24ef13f3cb281c3eb1761f73f6262177aca6
-Z
-*src/Java8Coding/DuplicateElementsList.java,6\0\60ab1bf32bf6f94f953618652b3c19d0a3bb27ba
 Q
 !src/JavaInterview/Occurrence.java,4\1\4158ca34a20542bc5ab2d72ed19fcf9da2c7d8fa
-J
-src/Java8Coding/Count.java,8\b\8b09b6c04f7b03b843608be24cda0de4b36ecebb
-Y
-)src/Java8Coding/FirstRepeatCharacter.java,d\8\d874ae6477f2d2522d3e81610714bd2cf2a69ea9
-K
-src/Java8Coding/MaxMin.java,6\2\62fd040c1fe1494a4c02c2d0bcb387d5cc175b60
 T
 $src/JavaInterview/PrimeNumOrNot.java,3\7\378e41a04acaa6c659ac6a631be181ed7a86a403
 T
@@ -29,8 +21,6 @@ R
 "src/JavaInterview/ReverseList.java,2\9\2963c427fdd76e92325a8dea67c4dba0d2f40434
 G
 src/git/GitConnect.java,4\b\4b953b4022bee95684c2cecb19a3a6bd480ceea7
-Q
-!src/Java8Coding/largestArray.java,7\1\710888b6f7344b1c448c66838dfaf654a25c6896
 R
 "src/Operator/TerinaryOperator.java,a\d\ad8d4a51a6fdbd5dfceea3bee93951f4f7ff9e4b
 J

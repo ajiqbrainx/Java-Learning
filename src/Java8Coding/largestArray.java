@@ -8,6 +8,8 @@ public class largestArray {
 
         int a[] = {12, 333, 4, 45, 67};
 
+
+
         System.out.println(Arrays.stream(a).max());
         System.out.println(Arrays.stream(a).min());
 

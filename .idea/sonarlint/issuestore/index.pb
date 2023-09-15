@@ -132,8 +132,6 @@ G
 src/Coding/OddEven.java,4\8\488e556ce9badf60cee153bf8cb892439caf11ac
 M
 src/Coding/ReverseNumber.java,1\f\1f90f7040f17046d0b33b9a7fab9dfc7f541516e
-L
-src/Java8Coding/OddEven.java,d\e\de86697880cd31ccaee6672393444805e5013052
 J
 src/Coding/Palindrome.java,2\8\285590d541d6c6a3047e9cd5508f8705fe84dc14
 L
@@ -148,8 +146,6 @@ w
 G.idea/sonarlint/issuestore/6/e/6ecd6000a7b6f4a2884412ff19f74193ed089648,3\8\38464f72ef55196e32fe4dfbcc50f1cda5f4cb5d
 w
 G.idea/sonarlint/issuestore/f/f/ff05e5e4856a8103ca7244dae1764f14752d036d,0\7\07cacfeca632b9a41de70fb90dc32931b4ad4e10
-P
- src/Java8Coding/StartWith10.java,b\b\bb5179b1f2461b2f85e96ca270bbc8928b4742ba
 N
 src/Basics/SingletonClass.java,a\f\af2d0d22473b7154984072687b06437cb41df430
 Z
@@ -164,8 +160,6 @@ w
 G.idea/sonarlint/issuestore/e/d/ed67eb178d523a4b3f117dcbe0eda5196367ceec,8\a\8a6dae537be9f47878c6964c6ee40cab0ca75e28
 V
 &src/Collection/List/ListInterface.java,8\6\862f791bd9a3e5b708465b98c5ce82a007eba852
-L
-src/Java8Coding/NonNull.java,d\6\d6ea60cf32dbf0498d051e9d5a4b8510b3d8c390
 O
 src/Array/ObjectCollection.java,c\9\c9d871725e2cc73ca48f201fcf61bc528a35d327
 W
@@ -246,8 +240,6 @@ G
 src/Coding/Factors.java,d\2\d214e2321b94f8c9bc6eddba85ee904923d7c458
 R
 "src/JavaInterview/PrimeNumber.java,2\0\2047c49f902d3c475746e0e0a6b4b32d989d172b
-W
-'src/JavaInterview/PalindromeString.java,7\8\782e73b656909f017fb9de72b916da1ade238249
 P
  src/JavaInterview/Factorial.java,8\8\88a50729d33d702d6416f27fa500f08e1d95ce29
 O
@@ -260,16 +252,8 @@ Y
 )src/JavaInterview/SecondLargestArray.java,c\f\cfc6f4753f5566185ac91dba76d7d6037f917e49
 `
 0src/Interview/HighestRepeatingElementsCount.java,1\3\131d24ef13f3cb281c3eb1761f73f6262177aca6
-Z
-*src/Java8Coding/DuplicateElementsList.java,6\0\60ab1bf32bf6f94f953618652b3c19d0a3bb27ba
 Q
 !src/JavaInterview/Occurrence.java,4\1\4158ca34a20542bc5ab2d72ed19fcf9da2c7d8fa
-J
-src/Java8Coding/Count.java,8\b\8b09b6c04f7b03b843608be24cda0de4b36ecebb
-Y
-)src/Java8Coding/FirstRepeatCharacter.java,d\8\d874ae6477f2d2522d3e81610714bd2cf2a69ea9
-K
-src/Java8Coding/MaxMin.java,6\2\62fd040c1fe1494a4c02c2d0bcb387d5cc175b60
 T
 $src/JavaInterview/PrimeNumOrNot.java,3\7\378e41a04acaa6c659ac6a631be181ed7a86a403
 T
@@ -278,8 +262,6 @@ N
 src/JavaInterview/OddList.java,8\4\8482190388d96cf379de511ca81a7dcc31c98b41
 R
 "src/JavaInterview/ReverseList.java,2\9\2963c427fdd76e92325a8dea67c4dba0d2f40434
-Q
-!src/Java8Coding/largestArray.java,7\1\710888b6f7344b1c448c66838dfaf654a25c6896
 G
 src/git/GitConnect.java,4\b\4b953b4022bee95684c2cecb19a3a6bd480ceea7
 R
