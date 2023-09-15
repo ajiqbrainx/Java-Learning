@@ -166,10 +166,6 @@ V
 &src/Collection/List/ListInterface.java,8\6\862f791bd9a3e5b708465b98c5ce82a007eba852
 L
 src/Java8Coding/NonNull.java,d\6\d6ea60cf32dbf0498d051e9d5a4b8510b3d8c390
-J
-src/Practice/Terinary.java,2\e\2eeb976a1f02a3b612ba1aad74d5d28442250f73
-R
-"src/Operator/TerinaryOperator.java,a\d\ad8d4a51a6fdbd5dfceea3bee93951f4f7ff9e4b
 O
 src/Array/ObjectCollection.java,c\9\c9d871725e2cc73ca48f201fcf61bc528a35d327
 W
@@ -254,16 +250,10 @@ W
 'src/JavaInterview/PalindromeString.java,7\8\782e73b656909f017fb9de72b916da1ade238249
 P
  src/JavaInterview/Factorial.java,8\8\88a50729d33d702d6416f27fa500f08e1d95ce29
-\
-,src/JavaInterview/SpaceRemoverCharacter.java,7\2\72b7504fe010f20388c1288db9da470e8bda0e5e
-S
-#src/JavaInterview/SpaceRemover.java,9\c\9c06e0d5f2cfdc498a8883c2420c8142e17eaf13
 O
 src/JavaInterview/ArraySum.java,5\7\571ba1aacabd5a287f235d3893cbe51fcfff3406
 O
 src/JavaInterview/DeadLock.java,d\a\da25871674fb82ed84a34b8acd0f44d227601b47
-G
-src/git/GitConnect.java,4\b\4b953b4022bee95684c2cecb19a3a6bd480ceea7
 I
 src/Coding/PairCount.java,7\6\7660148effae9c1adcdd45edb221fa8361676056
 Y
@@ -288,3 +278,11 @@ N
 src/JavaInterview/OddList.java,8\4\8482190388d96cf379de511ca81a7dcc31c98b41
 R
 "src/JavaInterview/ReverseList.java,2\9\2963c427fdd76e92325a8dea67c4dba0d2f40434
+Q
+!src/Java8Coding/largestArray.java,7\1\710888b6f7344b1c448c66838dfaf654a25c6896
+G
+src/git/GitConnect.java,4\b\4b953b4022bee95684c2cecb19a3a6bd480ceea7
+R
+"src/Operator/TerinaryOperator.java,a\d\ad8d4a51a6fdbd5dfceea3bee93951f4f7ff9e4b
+J
+src/Practice/Terinary.java,2\e\2eeb976a1f02a3b612ba1aad74d5d28442250f73
