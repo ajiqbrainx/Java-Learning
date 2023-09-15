@@ -278,3 +278,13 @@ J
 src/Java8Coding/Count.java,8\b\8b09b6c04f7b03b843608be24cda0de4b36ecebb
 Y
 )src/Java8Coding/FirstRepeatCharacter.java,d\8\d874ae6477f2d2522d3e81610714bd2cf2a69ea9
+K
+src/Java8Coding/MaxMin.java,6\2\62fd040c1fe1494a4c02c2d0bcb387d5cc175b60
+T
+$src/JavaInterview/PrimeNumOrNot.java,3\7\378e41a04acaa6c659ac6a631be181ed7a86a403
+T
+$src/JavaInterview/ReverseString.java,b\e\be6d45550ea8e10542ae04944446fb4c65f0a09f
+N
+src/JavaInterview/OddList.java,8\4\8482190388d96cf379de511ca81a7dcc31c98b41
+R
+"src/JavaInterview/ReverseList.java,2\9\2963c427fdd76e92325a8dea67c4dba0d2f40434
