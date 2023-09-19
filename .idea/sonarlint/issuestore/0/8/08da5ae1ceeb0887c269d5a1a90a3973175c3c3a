@@ -1,0 +1,9 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©²¥¦þÿÿÿÿ8¥†ÛÝª1
+d
+java:S3959"GRefactor this code so that this consumed stream pipeline is not reused.(æƒÑê8Ë†ÛÝª1
+L	java:S106"+Replace this use of System.out by a logger.(ž…Åïýÿÿÿÿ8Ó†ÛÝª1
+L	java:S106"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8Ó†ÛÝª1
+G	java:S106"+Replace this use of System.out by a logger.(æƒÑê8Ó†ÛÝª1
+Y
+java:S1128"7Remove this unused import 'java.util.SplittableRandom'.(âå ¦þÿÿÿÿ8ã†ÛÝª1

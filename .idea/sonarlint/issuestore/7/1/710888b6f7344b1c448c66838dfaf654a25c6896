@@ -1,0 +1,11 @@
+
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õªâ8É‚Ûİª1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…óöÛ8ˆƒÛİª1
+h
+java:S3655"FCall "min.isPresent()" or "!min.isEmpty()" before accessing the value.(ê­ÙŸùÿÿÿÿ8¥„Ûİª1
+h
+java:S3655"FCall "max.isPresent()" or "!max.isEmpty()" before accessing the value.(÷å«Õÿÿÿÿÿ8¥„Ûİª1
+L	java:S106"+Replace this use of System.out by a logger.(ê­ÙŸùÿÿÿÿ8ê„Ûİª1
+L	java:S106"+Replace this use of System.out by a logger.(÷å«Õÿÿÿÿÿ8ê„Ûİª1
+G	java:S106"+Replace this use of System.out by a logger.(¢Á¶8ê„Ûİª1
+L	java:S106"+Replace this use of System.out by a logger.(ºğÏøÿÿÿÿ8ú„Ûİª1
