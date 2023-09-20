@@ -1,6 +1,6 @@
 
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§±»ûÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¬··Å
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8ºıöÑ½0
+@	java:S106"+Replace this use of System.out by a logger.(¬··Å
+L	java:S106"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8ºıöÑ½0
 R
 java:S1128"7Remove this unused import 'java.io.FilterOutputStream'.(ÉèÕôúÿÿÿÿ
