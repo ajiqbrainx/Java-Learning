@@ -1,9 +1,14 @@
 package Coding;
 
+import java.util.Scanner;
+
 public class Palindrome {
     public static void main(String[] args) {
-        int palindrome = 222222222;
-        int palindromeCheck =222222222;
+        Scanner scanner = new Scanner(System.in);
+        int number = scanner.nextInt();
+        int check = number;
+        int palindrome = number;
+
         int rev = 0, rem;
         while (palindrome != 0) {
             rem = palindrome % 10;
@@ -11,7 +16,7 @@ public class Palindrome {
             palindrome = palindrome / 10;
         }
 
-        if (palindromeCheck == rev) System.out.println("Its is palindrome...");
+        if (check == rev) System.out.println("Its is palindrome...");
         else System.out.println("Its is not palindrome...");
 
 
