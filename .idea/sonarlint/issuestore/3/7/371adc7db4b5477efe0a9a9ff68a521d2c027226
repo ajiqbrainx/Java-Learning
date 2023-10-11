@@ -1,0 +1,7 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8ûë®é±1
+L	java:S106"+Replace this use of System.out by a logger.(øÈñûøÿÿÿÿ8¹ì®é±1
+m
+java:S1128"KRemove this unused import 'java.nio.channels.OverlappingFileLockException'.(‘ß¾îýÿÿÿÿ8Õì®é±1
+O
+java:S1128"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ8Õì®é±1
