@@ -1,8 +1,6 @@
 
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“œåá
-N	java:S106"9Replace this use of System.out or System.err by a logger.(÷ðåŸ
+@	java:S106"+Replace this use of System.out by a logger.(÷ðåŸ
 Q	java:S125"<This block of commented-out lines of code should be removed.(¿ß¯û
-S	java:S106"9Replace this use of System.out or System.err by a logger.(‡îÁÂùÿÿÿÿ
-U
-java:S1612"?Replace this lambda with method reference 'Collection::stream'.(ãŠ‚Í
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Öè¾©
+E	java:S106"+Replace this use of System.out by a logger.(‡îÁÂùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Öè¾©

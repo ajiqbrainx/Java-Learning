@@ -19,21 +19,19 @@ public class MapAndFlatMap {
 
 //       Map Exaple
         List<Integer> square = number.stream().map(f -> f * f).collect(Collectors.toList());
+        List<Integer> squareflat = number.stream().flatMap(f -> Stream.of(f, f * f)).collect(Collectors.toList());
         System.out.println(square);
 
         List<Integer> square1 = number.stream().flatMap(f -> Stream.of(f * f)).collect(Collectors.toList());
         System.out.println(square1);
 
 //Flatmap....Flatting
-        List<Integer> flatmap = number1.stream()
-                .flatMap(f -> f.stream())
-                .collect(Collectors.toList());
+        List<Integer> flatmap = number1.stream().flatMap(f -> f.stream()).collect(Collectors.toList());
         System.out.println(flatmap);
 
 // Flatmap .....one to many operation....
         List<Integer> flatter = flatmap.stream().flatMap(f -> Stream.of(f, f * f, f * f * f)).collect(Collectors.toList());
         System.out.println(flatter);
-
 
 
     }

@@ -9,8 +9,6 @@ class Solution {
         int firstRev = 0;
         int secondRev = 0;
         int output = 0;
-        int outputRem = 0;
-        int outputRev = 0;
 
         while (l1 != null) {
             first = (first * 10) + l1.val;
@@ -34,26 +32,18 @@ class Solution {
         }
         output = firstRev + secondRev;
 
+        System.out.println(output);
 
-        ListNode listNode = null;
-        ListNode current = null;
-        while (output != 0) {
-             outputRem = outputRev % 10;
-            ListNode newNode = new ListNode(outputRem);
 
-            if (listNode == null) {
-                listNode = newNode;
-                current = newNode;
-            } else {
-                current.next = newNode;
-                current = newNode;
-            }
-
-            outputRev = outputRev / 10;
-
+        ListNode dummyHead = new ListNode();
+        ListNode current = dummyHead;
+        while (output > 0) {
+            int digit = output % 10;
+            current.next = new ListNode(digit);
+            current = current.next;
+            output /= 10;
         }
-        System.out.println(current.val);
-        return listNode;
+        return  dummyHead;
     }
 }
 
@@ -88,7 +78,7 @@ public class Main {
         Solution solution = new Solution();
         ListNode result = solution.addTwoNumbers(l1, l2);
 
-//        System.out.println(result);
+        System.out.println(result);
     }
 }
 

@@ -1,9 +1,11 @@
 
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©²¥¦ώÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Έι£¤ωÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ΝÒ®”ώÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(³ΠΆ
-U
-java:S1612"?Replace this lambda with method reference 'Collection::stream'.(ιμ®
-S	java:S106"9Replace this use of System.out or System.err by a logger.(φ‹πÿÿÿÿÿ
-N	java:S106#"9Replace this use of System.out or System.err by a logger.(΅²Δ
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©²¥¦ώÿÿÿÿ8υ³δο±1
+[
+java:S1854">Remove this useless assignment to local variable "squareflat".(ªªύ8‘΄δο±1
+L	java:S106"+Replace this use of System.out by a logger.(Έι£¤ωÿÿÿÿ8 ΄δο±1
+L
+java:S1481"/Remove this unused "squareflat" local variable.(ªªύ8―΄δο±1
+L	java:S106"+Replace this use of System.out by a logger.(ΝÒ®”ώÿÿÿÿ8±΄δο±1
+G	java:S106"+Replace this use of System.out by a logger.(³ΠΆ8µ΄δο±1
+L	java:S106"+Replace this use of System.out by a logger.(φ‹πÿÿÿÿÿ8µ΄δο±1
+G	java:S106""+Replace this use of System.out by a logger.(΅²Δ8Ό΄δο±1
