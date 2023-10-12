@@ -1,0 +1,11 @@
+
+L
+java:S1066"/Merge this if statement with the enclosing one.(ì˜Á´8€ÕÄõ±1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“œåá8€ÕÄõ±1
+F	java:S106"+Replace this use of System.out by a logger.(ùƒ%8¯Éõ±1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÕÄõ±1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÕÄõ±1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ÕÄõ±1
