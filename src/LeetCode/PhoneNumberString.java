@@ -9,6 +9,7 @@ public class PhoneNumberString {
     public static void main(String[] args) {
         String digits = "23";
 
+
         Map<Integer, List<String>> valueLists = new HashMap<>();
         valueLists.put(2, new ArrayList<>());
         valueLists.put(3, new ArrayList<>());
@@ -48,21 +49,40 @@ public class PhoneNumberString {
 
         List<String> output = new ArrayList<>();
 
-        for (int k = 0; k < digits.length(); k++) {
-            char c = digits.charAt(k);
-            char c1 = digits.charAt(k + 1);
-
-
-            List<String> value1 = valueLists.get(Character.getNumericValue(c));
-            List<String> value2 = valueLists.get(Character.getNumericValue(c1));
-            for (int i = 0; i < value1.size(); i++) {
-                for (int j = 0; j < value2.size(); j++) {
-                    output.add(value1.get(i)+value2.get(j));
+        if (digits.length() <= 1) {
+            for (int m = 0; m < 2 ; m++) {
+                char c = digits.charAt(m);
+                List<String> value1 = valueLists.get(Character.getNumericValue(c));
+                for (int i = 0; i < value1.size(); i++) {
+                    output.add(value1.get(i));
                 }
+                break;
             }
-            break;
+            System.out.println(output);
+//            return output;
+
+        }else {
+            for (int k = 0; k < digits.length() - 1; k++) {
+                char c = digits.charAt(k);
+                char c1 = digits.charAt(k + 1);
+
+
+                List<String> value1 = valueLists.get(Character.getNumericValue(c));
+                List<String> value2 = valueLists.get(Character.getNumericValue(c1));
+                for (int i = 0; i < value1.size(); i++) {
+                    for (int j = 0; j < value2.size(); j++) {
+                        output.add(value1.get(i) + value2.get(j));
+                    }
+                }
+                break;
+            }
+
+            System.out.println(output);
+//            return output;
         }
-        System.out.println(output);
+
+
+
 
     }
 }
