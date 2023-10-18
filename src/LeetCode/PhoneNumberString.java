@@ -7,7 +7,12 @@ import java.util.Map;
 
 public class PhoneNumberString {
     public static void main(String[] args) {
-        String digits = "23";
+        String digits = "";
+        System.out.println(digits.length());
+        List<String> output = new ArrayList<>();
+//        if(digits.length()==0){
+//            return output;
+//        }
 
 
         Map<Integer, List<String>> valueLists = new HashMap<>();
@@ -47,9 +52,9 @@ public class PhoneNumberString {
         valueLists.get(9).add("y");
         valueLists.get(9).add("z");
 
-        List<String> output = new ArrayList<>();
 
-        if (digits.length() <= 1) {
+
+        if (digits.length() == 1) {
             for (int m = 0; m < 2 ; m++) {
                 char c = digits.charAt(m);
                 List<String> value1 = valueLists.get(Character.getNumericValue(c));

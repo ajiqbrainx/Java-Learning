@@ -1,27 +1,23 @@
 
-J
-java:S37405"/Provide the parametrized type for this generic.(…ÝêŸøÿÿÿÿ
-a
-java:S1192%"FDefine a constant instead of duplicating this literal "White" 3 times.(‰Õ¢Ðøÿÿÿÿ
-K
-java:S1191"5Use classes from the Java API instead of Sun classes.(ŒøñÞ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÆ»…
-U
-java:S1854-":Remove this useless assignment to local variable "color1".(ù‡ª¢ûÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(·ùßóýÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(Þ÷ÅŠúÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(­ŒÓÂüÿÿÿÿ
-V	java:S125!"<This block of commented-out lines of code should be removed.(‚É¼Íùÿÿÿÿ
-N	java:S106+"9Replace this use of System.out or System.err by a logger.(¡Öìâ
-F
-java:S1481-"+Remove this unused "color1" local variable.(ù‡ª¢ûÿÿÿÿ
-Q	java:S1250"<This block of commented-out lines of code should be removed.(©‰¨ž
-W
-java:S1126:"AReplace this if-then-else statement by a single return statement.(ú¿÷ˆ
-T
-java:S1128">Remove this unused import 'com.sun.jdi.NativeMethodException'.(ŒøñÞ
-U
-java:S1128":Remove this unused import 'java.io.ObjectStreamException'.(ÀÔôæÿÿÿÿÿ
-F
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+Q
+java:S37405"/Provide the parametrized type for this generic.(…ÝêŸøÿÿÿÿ8å¸¹Ä³1
+h
+java:S1192%"FDefine a constant instead of duplicating this literal "White" 3 times.(‰Õ¢Ðøÿÿÿÿ8å¸¹Ä³1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÆ»…8å¸¹Ä³1
+\
+java:S1854-":Remove this useless assignment to local variable "color1".(ù‡ª¢ûÿÿÿÿ8ö¸¹Ä³1
+G	java:S106"+Replace this use of System.out by a logger.(«‹Îõ8…¹¹Ä³1
+L	java:S106"+Replace this use of System.out by a logger.(·ùßóýÿÿÿÿ8…¹¹Ä³1
+]	java:S125"<This block of commented-out lines of code should be removed.(Þ÷ÅŠúÿÿÿÿ8…¹¹Ä³1
+]	java:S125"<This block of commented-out lines of code should be removed.(­ŒÓÂüÿÿÿÿ8…¹¹Ä³1
+]	java:S125!"<This block of commented-out lines of code should be removed.(‚É¼Íùÿÿÿÿ8…¹¹Ä³1
+G	java:S106+"+Replace this use of System.out by a logger.(¡Öìâ8‰¹¹Ä³1
+M
+java:S1481-"+Remove this unused "color1" local variable.(ù‡ª¢ûÿÿÿÿ8‰¹¹Ä³1
+X	java:S1250"<This block of commented-out lines of code should be removed.(©‰¨ž8‰¹¹Ä³1
+^
+java:S1126:"AReplace this if-then-else statement by a single return statement.(ú¿÷ˆ8‰¹¹Ä³1
+\
+java:S1128":Remove this unused import 'java.io.ObjectStreamException'.(ÀÔôæÿÿÿÿÿ8‰¹¹Ä³1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8‰¹¹Ä³1
