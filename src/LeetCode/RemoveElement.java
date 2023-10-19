@@ -7,25 +7,38 @@ public class RemoveElement {
         int[] nums = {3, 2, 2, 3};
         int val = 3;
 
-        int[] array = new int[nums.length];
+//        int[] array = new int[nums.length];
+//
+//        int output = 0;
+//
+//        for (int i = 0; i < nums.length; i++) {
+//
+//            if (val != nums[i]) {
+//                array[i] = nums[i];
+//            } else {
+//                output++;
+//                array[i] = '_';
+//            }
+//        }
+//        Arrays.sort(array);
+//        System.out.println(output);
+//
+//        for (int i = 0; i < array.length; i++) {
+//            System.out.print(array[i] + " ");
+//        }
 
-        int output = 0;
+        int writePointer = 0;
 
-        for (int i = 0; i < nums.length; i++) {
-
-            if (val != nums[i]) {
-                array[i] = nums[i];
-            } else {
-                output++;
-                array[i] = '_';
+        for (int readPointer = 0; readPointer < nums.length; readPointer++) {
+            if (nums[readPointer] != val) {
+                nums[writePointer] = nums[readPointer];
+                writePointer++;
             }
         }
-        Arrays.sort(array);
-        System.out.println(output);
+        System.out.println(writePointer);
 
-        for (int i = 0; i < array.length; i++) {
-            System.out.print(array[i] + " ");
+        for (int i = 0; i < nums.length; i++) {
+            System.out.print(nums[i] + " ");
         }
-
     }
 }
