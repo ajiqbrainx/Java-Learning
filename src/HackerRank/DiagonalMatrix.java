@@ -13,6 +13,7 @@ public class DiagonalMatrix {
 //        for (int i = 0; i < range; i++) {
 //            List<Integer> list = new ArrayList<>();
 //            for (int j = 0; j < range; j++) {
+
 //                int value = scanner.nextInt();
 //                list.add(value);
 //            }
