@@ -1,12 +1,19 @@
 package LeetCode;
 
+
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
 public class PhoneNumberString {
-    public static void main(String[] args) {
+    public void main(String[] args) {
+        int a = Ajith.a;
+        Ajith ajith = new Ajith();
+        int bb = ajith.b;
+        int aa = Ajith.a;
+
         String digits = "";
         System.out.println(digits.length());
         List<String> output = new ArrayList<>();
@@ -53,9 +60,8 @@ public class PhoneNumberString {
         valueLists.get(9).add("z");
 
 
-
         if (digits.length() == 1) {
-            for (int m = 0; m < 2 ; m++) {
+            for (int m = 0; m < 2; m++) {
                 char c = digits.charAt(m);
                 List<String> value1 = valueLists.get(Character.getNumericValue(c));
                 for (int i = 0; i < value1.size(); i++) {
@@ -66,7 +72,7 @@ public class PhoneNumberString {
             System.out.println(output);
 //            return output;
 
-        }else {
+        } else {
             for (int k = 0; k < digits.length() - 1; k++) {
                 char c = digits.charAt(k);
                 char c1 = digits.charAt(k + 1);
@@ -87,7 +93,10 @@ public class PhoneNumberString {
         }
 
 
+    }
 
-
+    class Ajith {
+        static int a = 7;
+        int b = 9;
     }
 }

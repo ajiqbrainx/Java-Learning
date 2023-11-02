@@ -8,10 +8,10 @@ public class Factorial {
     }
 
     static void recursion(int number, int start) {
-
         if (number != 1) {
+            start = start * number;
             recursion(number - 1, start * number);
-        }else {
+        } else {
             System.out.println(start);
         }
 
