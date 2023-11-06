@@ -1,4 +1,6 @@
 
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á²Œ˜úÿÿÿÿ8–óİ¥¹1
-L	java:S106"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ8Ÿóİ¥¹1
-L	java:S106"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8¢óİ¥¹1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á²Œ˜úÿÿÿÿ8Ü½ˆ˜º1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÆÜØ¾ûÿÿÿÿ8ì½ˆ˜º1
+f
+java:S3358"DExtract this nested ternary operation into an independent statement.(Éâ»Şşÿÿÿÿ8ì½ˆ˜º1
+L	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8ì½ˆ˜º1
