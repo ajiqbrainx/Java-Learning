@@ -12,5 +12,8 @@ public class SpaceRemoverCharacter {
         }
         System.out.println(yes);
 
+        int a = 10, b = 20;
+        System.out.println(a + '+' + "ajith" + b);
+
     }
 }
