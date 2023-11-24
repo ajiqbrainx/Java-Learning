@@ -7330,3 +7330,5 @@ w
 G.idea/sonarlint/issuestore/4/e/4edad238cdc7776b1150c4be7ea60084d8134ea5,3\c\3c0e96a60cb7c02605d1f5aa29171e9e07ab14cf
 w
 G.idea/sonarlint/issuestore/2/4/24bb7debbfd75586523f3735299b9fd9a2356859,c\d\cd7de068d7bbd1ad0ef884e136f431de9e7b38a0
+M
+src/LeetCode/FindElement.java,1\f\1f8018569da65efc6a45733eb372d0610d5ed447
