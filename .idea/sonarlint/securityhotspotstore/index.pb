@@ -5165,3 +5165,7 @@ w
 G.idea/sonarlint/issuestore/2/4/24bb7debbfd75586523f3735299b9fd9a2356859,c\d\cd7de068d7bbd1ad0ef884e136f431de9e7b38a0
 M
 src/LeetCode/FindElement.java,1\f\1f8018569da65efc6a45733eb372d0610d5ed447
+P
+ src/LeetCode/FindTwoElement.java,1\a\1a7195638cfbd7ec278cc67ec94334b1e1047a5c
+K
+src/LeetCode/FindIndex.java,0\3\03ec8f6dc8616bb772ed27cff8dae482171e1e2d
