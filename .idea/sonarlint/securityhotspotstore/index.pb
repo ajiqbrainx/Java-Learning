@@ -5169,3 +5169,9 @@ P
  src/LeetCode/FindTwoElement.java,1\a\1a7195638cfbd7ec278cc67ec94334b1e1047a5c
 K
 src/LeetCode/FindIndex.java,0\3\03ec8f6dc8616bb772ed27cff8dae482171e1e2d
+Q
+!src/LeetCode/MissingPositive.java,6\b\6bfa36b515331ffd52432b5830d57863b94e9299
+P
+ src/LeetCode/StringMultiply.java,d\3\d38f32c11430be6c0c8e6a044816c0966b10dc73
+N
+src/LeetCode/Permutations.java,4\e\4ef53f8e8246d00b91f1d344a8f0ca65c1f51bf5
