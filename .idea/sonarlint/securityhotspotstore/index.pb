@@ -5183,3 +5183,7 @@ M
 src/LeetCode/MergeString.java,e\f\ef358377d66518f4f7c62a8dfdf1f871ec74c027
 M
 src/LeetCode/ReverseWord.java,2\2\22813d34d65f218fc407b2001cd584b582bbee32
+T
+$src/LeetCode/IncreasingTripelts.java,3\4\34048aec994acaf9b09023c84808e1b3f11f1247
+J
+src/LeetCode/MoveZero.java,e\5\e59e7997e229c05249f3a9282d857cef0c4bc275
