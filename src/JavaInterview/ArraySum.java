@@ -8,5 +8,21 @@ public class ArraySum {
             sum += calculate;
         }
         System.out.println(sum);
+
+       int aa=135;
+
+       byte b= (byte) aa;
+        System.out.println(b);
+
+        for (int i = 1; i < 10; ++i) {
+            ++i;
+            System.out.println(i);
+
+        }
+
+
+
+
+
     }
 }
