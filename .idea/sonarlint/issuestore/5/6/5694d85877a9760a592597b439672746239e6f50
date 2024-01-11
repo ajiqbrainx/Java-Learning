@@ -1,11 +1,24 @@
 
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©²¥¦şÿÿÿÿ8õ³äï±1
-[
-java:S1854">Remove this useless assignment to local variable "squareflat".(ªªı8‘´äï±1
-L	java:S106"+Replace this use of System.out by a logger.(¸é£¤ùÿÿÿÿ8 ´äï±1
-L
-java:S1481"/Remove this unused "squareflat" local variable.(ªªı8¯´äï±1
-L	java:S106"+Replace this use of System.out by a logger.(ÍÒ®”şÿÿÿÿ8±´äï±1
-G	java:S106"+Replace this use of System.out by a logger.(³Ğ¢Œ8µ´äï±1
-L	java:S106"+Replace this use of System.out by a logger.(öš‹ğÿÿÿÿÿ8µ´äï±1
-G	java:S106""+Replace this use of System.out by a logger.(¡²Ä8¼´äï±1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©²¥¦şÿÿÿÿ8ĞË‰‘Ï1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(›ÔÂ8ğË‰‘Ï1
+L	java:S106"+Replace this use of System.out by a logger.(¸é£¤ùÿÿÿÿ8ğË‰‘Ï1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(­Ÿ›Ä8ğË‰‘Ï1
+t
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(İ‡Â¹ùÿÿÿÿ8ğË‰‘Ï1
+G	java:S106"+Replace this use of System.out by a logger.(Ìá™8ğË‰‘Ï1
+t
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(³å ™úÿÿÿÿ8ğË‰‘Ï1
+F	java:S106"+Replace this use of System.out by a logger.(“Ÿr8ğË‰‘Ï1
+L	java:S106"+Replace this use of System.out by a logger.(ÍÒ®”şÿÿÿÿ8Üÿ‰‘Ï1
+L	java:S106"+Replace this use of System.out by a logger.(³š¥éûÿÿÿÿ8Üÿ‰‘Ï1
+t
+java:S6204 "RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(‘ùµ×úÿÿÿÿ8Üÿ‰‘Ï1
+G	java:S106!"+Replace this use of System.out by a logger.(³Ğ¢Œ8Üÿ‰‘Ï1
+t
+java:S6204$"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Ÿ¦éòıÿÿÿÿ8Üÿ‰‘Ï1
+L	java:S106%"+Replace this use of System.out by a logger.(öš‹ğÿÿÿÿÿ8ëÿ‰‘Ï1
+o
+java:S6204("RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(èŸœĞ8ëÿ‰‘Ï1
+G	java:S106)"+Replace this use of System.out by a logger.(¡²Ä8ëÿ‰‘Ï1

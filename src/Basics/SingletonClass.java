@@ -13,10 +13,7 @@ class Aji {
         return aji;
     }
 
-    void print(){
-        System.out.println("It is the Most thing...");
-        System.out.println("It is the Singleton Object....");
-    }
+
 
 
 
@@ -25,7 +22,9 @@ class Aji {
 public class SingletonClass {
     public static void main(String[] args) {
         Aji aji =Aji.get();
-        aji.print();
+
+
+
 
 
     }

@@ -1,5 +1,7 @@
 package JavaInterview;
 
+import java.util.LinkedList;
+
 public class ArraySum {
     public static void main(String[] args) {
         int[] a = {1, 2, 3, 4, 5};
@@ -9,9 +11,9 @@ public class ArraySum {
         }
         System.out.println(sum);
 
-       int aa=135;
+        int aa = 135;
 
-       byte b= (byte) aa;
+        byte b = (byte) aa;
         System.out.println(b);
 
         for (int i = 1; i < 10; ++i) {
@@ -19,9 +21,6 @@ public class ArraySum {
             System.out.println(i);
 
         }
-
-
-
 
 
     }
