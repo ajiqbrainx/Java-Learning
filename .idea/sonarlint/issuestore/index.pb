@@ -7376,3 +7376,5 @@ P
  src/JavaInterview/SortArray.java,d\9\d958688b8efe6e17ee3f2f6a7a30b2621c9c41b0
 L
 src/Recusrion/SortArray.java,c\6\c60c62f793674b34c95584e42ddb656f31b54bc6
+U
+%src/Practice/SecondHighestNumber.java,7\1\71495578a8f5ce5a8ddf9ed06ccd29bbcd46cf20
