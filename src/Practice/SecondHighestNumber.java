@@ -24,11 +24,7 @@ public class SecondHighestNumber {
         }
         System.out.println(output);
 
-        List<Integer> list = new ArrayList<>();
-        list.stream().map(f ->
-            f.equals(f;
 
-                )
 
     }
 }
