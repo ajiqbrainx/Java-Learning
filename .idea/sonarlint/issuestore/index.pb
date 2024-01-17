@@ -7378,3 +7378,13 @@ L
 src/Recusrion/SortArray.java,c\6\c60c62f793674b34c95584e42ddb656f31b54bc6
 U
 %src/Practice/SecondHighestNumber.java,7\1\71495578a8f5ce5a8ddf9ed06ccd29bbcd46cf20
+O
+src/LeetCode/MyPermutation.java,4\5\45e9464363147fe808e9fe0268c6a992e3c6d55d
+M
+src/Basics/CheckingClass.java,e\d\eda38fa2f1a288cf5b4e25b9932da596b8c681a7
+O
+src/Basics/IteratorExample.java,a\2\a284188f79c8bff2cb2a4ed7a0259fb4cc8af036
+K
+src/Recusrion/PrintTen.java,c\a\ca30c270e4d2df8524cfa6c98ddbe0ebbb439322
+F
+src/Practice/Fact.java,d\6\d699d72e811c9255200321fd584d40c3c6cb4861
