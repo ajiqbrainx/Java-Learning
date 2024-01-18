@@ -11,13 +11,13 @@ java:S2142"^Either re-interrupt this method or rethrow the "InterruptedExcepti
 E	java:S108")Either remove or fill this block of code.(ä ¹€8Ôù¿Ñ¯1
 L	java:S106"+Replace this use of System.out by a logger.(ä¡„üÿÿÿÿ8Ôù¿Ñ¯1
 _
-java:S1854#"=Remove this useless assignment to local variable "threadTwo".(†Œî×ÿÿÿÿÿ8«ÇŠŸ°1
+java:S1854$"=Remove this useless assignment to local variable "threadTwo".(†Œî×ÿÿÿÿÿ8«ÇŠŸ°1
 Z
-java:S1854""=Remove this useless assignment to local variable "threadOne".(‚ÒÈŞ8«ÇŠŸ°1
+java:S1854#"=Remove this useless assignment to local variable "threadOne".(‚ÒÈŞ8«ÇŠŸ°1
 “
 java:S1130 "wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78­ÇŠŸ°1
 K
-java:S1481"".Remove this unused "threadOne" local variable.(‚ÒÈŞ8°ÇŠŸ°1
+java:S1481#".Remove this unused "threadOne" local variable.(‚ÒÈŞ8°ÇŠŸ°1
 P
-java:S1481#".Remove this unused "threadTwo" local variable.(†Œî×ÿÿÿÿÿ8±ÇŠŸ°1
-]	java:S125)"<This block of commented-out lines of code should be removed.(²’…¸ùÿÿÿÿ8´ÇŠŸ°1
+java:S1481$".Remove this unused "threadTwo" local variable.(†Œî×ÿÿÿÿÿ8±ÇŠŸ°1
+]	java:S125*"<This block of commented-out lines of code should be removed.(²’…¸ùÿÿÿÿ8´ÇŠŸ°1

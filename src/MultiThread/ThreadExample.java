@@ -31,6 +31,7 @@ class ThreadTwo extends Thread {
 public class ThreadExample {
     public static void main(String[] args) throws InterruptedException {
 
+
         Runnable threadOne = new ThreadOne();
         ThreadTwo threadTwo = new ThreadTwo();
 
