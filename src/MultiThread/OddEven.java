@@ -1,6 +1,8 @@
 package MultiThread;
 
-class Odd extends Thread{
+import java.util.Arrays;
+
+class Odd extends Thread {
 
     public synchronized void run() {
         for (int i = 1; i <= 10; i += 2) {
@@ -22,6 +24,10 @@ class Even extends Thread {
             System.out.println(i);
         }
         notify();
+
+
+
+
     }
 }
 
@@ -34,7 +40,6 @@ public class OddEven {
         Even even = new Even();
 
         odd.start();
-
 
 
 //        System.out.println("odd...Done");
