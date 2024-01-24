@@ -7400,3 +7400,5 @@ F
 src/Practice/Sort.java,2\8\28e5d497b88cfde4a2cd3e0f5cc76f594d203e0e
 O
 src/Practice/ReverseNumber.java,f\5\f52b7c6fd32fe73a038134a2affea5a8f0a417eb
+O
+src/Practice/StringReverse.java,b\3\b3571e07e0ec265986a5e6cc7530f2470a6b0e86
