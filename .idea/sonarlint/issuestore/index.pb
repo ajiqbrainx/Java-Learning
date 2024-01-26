@@ -7402,3 +7402,9 @@ O
 src/Practice/ReverseNumber.java,f\5\f52b7c6fd32fe73a038134a2affea5a8f0a417eb
 O
 src/Practice/StringReverse.java,b\3\b3571e07e0ec265986a5e6cc7530f2470a6b0e86
+Y
+)src/InterviewPractice/DiagonalMatrix.java,6\2\6275c1523300ca9236bdcbe809fa2d2e906a6538
+W
+'src/InterviewPractice/IgnoreVowels.java,c\7\c7cfb605e74420b9d3855cc70c468aba9f2ede59
+W
+'src/InterviewPractice/StringNumber.java,6\7\67c8b7906cb0e43292caaaca22a2d685f26bf1bc
