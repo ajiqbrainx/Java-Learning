@@ -5251,3 +5251,11 @@ O
 src/InterviewPractice/ABCD.java,6\2\62eba1078dbfa24ea3d0a52c42db374bf90ffc0d
 Z
 *src/InterviewPractice/StringDuplicate.java,4\6\46548c019d5ed50c8b6f5f8fa6f4e9fe8e994325
+S
+#src/InterviewPractice/AbcdNext.java,3\c\3c0ff4e0617580472c5d0e9319ec8df2da416ef2
+O
+src/InterviewPractice/Abcd.java,1\b\1b9056872ca3fe41fa13cb3043cc916d5893d81d
+O
+src/HackerRank/StringTask1.java,6\9\69093b83193472e531f5c4b5f0dd12a504737b79
+P
+ src/HackerRank/PatternMatch.java,e\e\eeb3f44b39d1b692ca1d2d64d621afe293e0bc27

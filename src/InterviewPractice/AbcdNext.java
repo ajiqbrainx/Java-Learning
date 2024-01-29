@@ -2,7 +2,7 @@ package InterviewPractice;
 
 import java.util.Scanner;
 
-public class ABCD {
+public class AbcdNext {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
