@@ -5259,3 +5259,5 @@ O
 src/HackerRank/StringTask1.java,6\9\69093b83193472e531f5c4b5f0dd12a504737b79
 P
  src/HackerRank/PatternMatch.java,e\e\eeb3f44b39d1b692ca1d2d64d621afe293e0bc27
+G
+src/Basics/DemoScp.java,8\b\8b6ff14f35908c088c76bb0404e905dafc47a145
