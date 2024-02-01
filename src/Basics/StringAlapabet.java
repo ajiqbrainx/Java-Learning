@@ -48,39 +48,6 @@ public class StringAlapabet {
         }
         return outputList;
 
-//        }
-    }
+        }
 
-
-//        for (int i = 0; i < name.length(); i++) {
-//            int firstValue = name.charAt(i);
-//           int lastvalue= stringBuilder.length()-1;
-//           int previous= stringBuilder.charAt(lastvalue);
-//
-//
-//
-//            for (int j = i + 1; j < name.length(); j++) {
-//                firstValue = name.charAt(i);
-//                int nextValue = name.charAt(j);
-//               int aa= stringBuilder.length()-1;
-//
-//                if (stringBuilder.length()-1.  == firstValue) {
-//
-//                }
-//                if (firstValue + 1 == nextValue) {
-//                    stringBuilder.append(name.charAt(i));
-//                    stringBuilder.append(name.charAt(j));
-//                    i = j;
-//                    break;
-//                } else {
-//                    outputList.add(stringBuilder.toString());
-//                    stringBuilder.setLength(0);
-////                    i = i ;
-//                    break;
-//                }
-//            }
-//        }
-//
-//        System.out.println(outputList);
-//    }
 }
