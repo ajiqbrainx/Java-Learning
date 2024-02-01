@@ -9,10 +9,10 @@ import java.util.Map;
 
 public class PhoneNumberString {
     public void main(String[] args) {
-        int a = Ajith.a;
+//        int a = Ajith.a;
         Ajith ajith = new Ajith();
         int bb = ajith.b;
-        int aa = Ajith.a;
+//        int aa = Ajith.a;
 
         String digits = "";
         System.out.println(digits.length());
@@ -96,7 +96,7 @@ public class PhoneNumberString {
     }
 
     class Ajith {
-        static int a = 7;
+         int a = 7;
         int b = 9;
     }
 }
