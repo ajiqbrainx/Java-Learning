@@ -7422,3 +7422,7 @@ P
  src/HackerRank/PatternMatch.java,e\e\eeb3f44b39d1b692ca1d2d64d621afe293e0bc27
 G
 src/Basics/DemoScp.java,8\b\8b6ff14f35908c088c76bb0404e905dafc47a145
+N
+src/Basics/StringAlapabet.java,f\1\f1876f7a8b168fa62ec0d52ac14ea761509a4d50
+I
+src/Basics/HappyPath.java,5\b\5b4c35a52f92184cd7ec7f853ec14d7b879f5612
