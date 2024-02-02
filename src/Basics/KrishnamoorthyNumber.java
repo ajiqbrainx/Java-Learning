@@ -26,11 +26,8 @@ public class KrishnamoorthyNumber {
         int value = 1;
 
         if (number > 0) {
-//            while (number != 0) {
                 rem = number % 10;
                 number = number / 10;
-//                break;
-//            }
             while (rem > 0) {
                 value = value * rem;
                 rem = rem - 1;
