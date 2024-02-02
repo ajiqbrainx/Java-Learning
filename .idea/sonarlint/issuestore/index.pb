@@ -7426,3 +7426,5 @@ N
 src/Basics/StringAlapabet.java,f\1\f1876f7a8b168fa62ec0d52ac14ea761509a4d50
 I
 src/Basics/HappyPath.java,5\b\5b4c35a52f92184cd7ec7f853ec14d7b879f5612
+T
+$src/Basics/KrishnamoorthyNumber.java,a\5\a554b49d29284681ac611d6a2b445fb0d7267383
