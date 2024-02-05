@@ -2,6 +2,7 @@ package LeetCode;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Optional;
 
 public class FirstOccurrence {
     public static void main(String[] args) {
@@ -9,14 +10,20 @@ public class FirstOccurrence {
         String needle = "sad";
         int length = haystack.length() - needle.length();
 
-        List<String> list = new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
 
-        occurrence(haystack, needle, list, 0, needle.length(),length );
+        var outputList = occurrence(haystack, needle, list, 0, needle.length(), length);
+
+        int output = -1;
 
 
+        if (!outputList.isEmpty()) {
+            output = outputList.get(0);
+        }
+        System.out.println(output);
     }
 
-    static List occurrence(String haystack, String needle, List<String> list, int index, int length, int lastIndex) {
+    static List<Integer> occurrence(String haystack, String needle, List<Integer> list, int index, int length, int lastIndex) {
 
         StringBuilder stringBuilder = new StringBuilder();
 
@@ -25,9 +32,9 @@ public class FirstOccurrence {
                 stringBuilder.append(haystack.charAt(i));
             }
             if (stringBuilder.toString().equals(needle)) {
-                list.add(stringBuilder.toString());
+                list.add(index);
             }
-            occurrence(haystack, needle, list, index + 1, length + 1, lastIndex);
+            return occurrence(haystack, needle, list, index + 1, length + 1, lastIndex);
         }
 
         return list;
