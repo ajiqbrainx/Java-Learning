@@ -7428,3 +7428,7 @@ I
 src/Basics/HappyPath.java,5\b\5b4c35a52f92184cd7ec7f853ec14d7b879f5612
 T
 $src/Basics/KrishnamoorthyNumber.java,a\5\a554b49d29284681ac611d6a2b445fb0d7267383
+P
+ src/LeetCode/FirstOccurence.java,8\4\843e684cb6bb6d8c9a05d9cc2a317227970e0f23
+Q
+!src/LeetCode/FirstOccurrence.java,1\c\1c1fa9dfb1fd93689bd7080e3fd9e04a8b75dc4d
