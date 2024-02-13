@@ -7434,3 +7434,9 @@ Q
 +src/InterviewPractice/DimensionalArray.java,6\5\65cc385ef81202ddcdd8fb80bb4aacfc1ee7343a
 J
 src/LeetCode/SubArray.java,9\b\9b36d737dd891cb734f0aa07cc81fd7ed19cbee9
+N
+src/LeetCode/SpiralMatrix.java,6\0\6024e9ed25418f746c94f90ccd29c38ac7f0be56
+R
+"src/LeetCode/LastLengthString.java,e\8\e81cb01316825d9a422a01adbd7d79b935da9b2d
+M
+src/LeetCode/ListReverse.java,f\c\fc3759f3e96e271218755e56b68c3ffbf93be74f
