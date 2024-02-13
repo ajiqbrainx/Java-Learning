@@ -5269,3 +5269,7 @@ T
 $src/Basics/KrishnamoorthyNumber.java,a\5\a554b49d29284681ac611d6a2b445fb0d7267383
 Q
 !src/LeetCode/FirstOccurrence.java,1\c\1c1fa9dfb1fd93689bd7080e3fd9e04a8b75dc4d
+[
++src/InterviewPractice/DimensionalArray.java,6\5\65cc385ef81202ddcdd8fb80bb4aacfc1ee7343a
+J
+src/LeetCode/SubArray.java,9\b\9b36d737dd891cb734f0aa07cc81fd7ed19cbee9
