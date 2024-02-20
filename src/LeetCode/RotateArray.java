@@ -6,7 +6,7 @@ public class RotateArray {
     public static void main(String[] args) {
 
         int[] array = {0,1,2};
-        var output = rotateArray(array, 4, array.length - 1,0);
+        var output = rotateArray(array, 2, array.length - 1,0);
         System.out.println(Arrays.toString(output));
 
     }
@@ -24,7 +24,7 @@ public class RotateArray {
                 temp = nextValue;
                 index++;
             }
-            return rotateArray(array, input - 1, array.length - 1,nextValue);
+            return rotateArray(array, input - 1, array.length - 1,0);
         } else {
             return array;
         }
