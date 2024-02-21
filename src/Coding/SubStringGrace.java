@@ -10,10 +10,16 @@ public class SubStringGrace {
         String[] array = {"sad", "sa", "sadl"};
 
         Map<Integer, List<String>> map = new HashMap<>();
+
+        var output = map(map, array, 0);
+
+        System.out.println(output);
+    }
+
+    static Map<Integer, List<String>> map(Map<Integer, List<String>> map, String[] array, int k) {
         StringBuilder stringBuilder = new StringBuilder();
         List<String> list = new ArrayList<>();
-
-        for (int k = 0; k < array.length; k++) {
+        if (k < array.length) {
             String first = array[k];
             for (int i = 0; i < first.length(); i++) {
                 for (int j = i; j < first.length(); j++) {
@@ -23,17 +29,13 @@ public class SubStringGrace {
                 stringBuilder.setLength(0);
             }
             map.put(k, list);
-            list.clear();
-
+            return map(map, array, k + 1);
+        } else {
+            return map;
         }
-        System.out.println(map);
-    }
 
-    static  Map<Integer, List<String>> map(Map<Integer, List<String>> map,StringBuilder stringBuilder, List<String> list){
 
     }
-
-
 
 
 //        int lessvalue = array[0].length();

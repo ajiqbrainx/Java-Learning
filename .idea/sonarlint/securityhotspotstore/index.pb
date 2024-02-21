@@ -5285,3 +5285,13 @@ O
 src/Basics/ArrayBigElement.java,6\9\6948ca8b17efb4d552f6caf251fdb026c5be3619
 M
 src/LeetCode/RotateArray.java,c\8\c89b295bb12224ecd062c7c0bf61c9b21fe88fd2
+G
+src/Coding/OddEven.java,4\8\488e556ce9badf60cee153bf8cb892439caf11ac
+G
+src/Coding/EvenOdd.java,8\3\83071492c7bdc2c2c63fa6e42939b2916f631329
+N
+src/Coding/DiagonalMatrix.java,9\8\985a9fe128a5a8fa6fb1aa980ba732b66d3f3108
+N
+src/Coding/SubStringGrace.java,7\6\76006ffc7f2c30d578ad166900fffb058fda10ad
+P
+ src/Coding/StringPalindrome.java,9\d\9db8befbce2a9e7bdc2cd007c8762d5757c102ec
