@@ -1,13 +1,11 @@
 package Coding;
 
-import javax.naming.ldap.HasControls;
 import java.util.*;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class MapJavaEight {
     public static void main(String[] args) {
+
         String str = "Name=Hema,Age=26,Company=Qbrainx";
 
 
@@ -24,15 +22,15 @@ public class MapJavaEight {
 
         var countCSE = employeeList.stream().filter(f -> f.department.equals("CSE")).count();
 
-        HashMap<String,Long>map=new HashMap<>();
+        HashMap<String, Long> map = new HashMap<>();
 
         map.put("CSE", countCSE);
 
 
         System.out.println(map);
-       var a =  employeeList.stream().collect(Collectors.groupingBy(Employee::getDepartment,Collectors.counting()));
+        var a = employeeList.stream().collect(Collectors.groupingBy(Employee::getDepartment, Collectors.counting()));
         System.out.println(a);
-        var b=employeeList.stream().map(Employee::getDepartment).collect(Collectors.toList());
+        var b = employeeList.stream().map(Employee::getDepartment).collect(Collectors.toList());
         System.out.println(b);
     }
 

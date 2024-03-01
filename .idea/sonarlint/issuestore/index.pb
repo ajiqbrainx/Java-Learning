@@ -7460,9 +7460,11 @@ N
 src/InterviewPractice/Fib.java,2\2\22bf00591f11ae2265cdc0b67410603020918fc6
 F
 src/Coding/MapKey.java,4\3\43a3c89c01f4a0dc0003368403e81a2e79afc544
-I
-src/Coding/StringSub.java,2\b\2bf76c207a8b42ed25fdc50621189bd2a92b327c
 L
 src/Coding/MapJavaEight.java,d\5\d5a4680fadb9e1e7dcad8c82df80c68a136700bf
 H
 src/Coding/Employee.java,d\5\d57950cc7877e4dfa717cb2e1b29307eb4a9ea9a
+O
+src/Java8Coding/Palindrome.java,2\4\24681f0abfd3c81a6f58b7ca5c8cdcf446e4e6fb
+P
+ src/Java8Coding/FindElement.java,d\4\d4eea8dba89598d8a805afd8cf7cb5264943c933
