@@ -10,10 +10,5 @@ public class FindElement {
 
         list.stream().map(f -> f.toString()).filter(f -> f.startsWith("1")).forEach(System.out::println);
 
-
-
-
-
-
     }
 }
