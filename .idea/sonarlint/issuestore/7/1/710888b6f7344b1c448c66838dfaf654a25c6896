@@ -2,9 +2,9 @@
 h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(υªβ8Ι‚Ϋέª1
 v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…σφΫ8ƒΫέª1
 h
-java:S3655"FCall "min.isPresent()" or "!min.isEmpty()" before accessing the value.(κ­Ωωÿÿÿÿ8¥„Ϋέª1
-h
 java:S3655"FCall "max.isPresent()" or "!max.isEmpty()" before accessing the value.(χε«Υÿÿÿÿÿ8¥„Ϋέª1
+h
+java:S3655"FCall "min.isPresent()" or "!min.isEmpty()" before accessing the value.(κ­Ωωÿÿÿÿ8¥„Ϋέª1
 L	java:S106"+Replace this use of System.out by a logger.(κ­Ωωÿÿÿÿ8κ„Ϋέª1
 L	java:S106"+Replace this use of System.out by a logger.(χε«Υÿÿÿÿÿ8κ„Ϋέª1
 G	java:S106"+Replace this use of System.out by a logger.(ΆΑ¶8κ„Ϋέª1
