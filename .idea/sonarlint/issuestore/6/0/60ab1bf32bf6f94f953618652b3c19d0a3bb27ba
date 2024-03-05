@@ -1,5 +1,8 @@
 
-D
-java:S3740"/Provide the parametrized type for this generic.(Î—€:
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…óöÛ
-E	java:S106"+Replace this use of System.out by a logger.(¡ûï»ûÿÿÿÿ
+K
+java:S3740"/Provide the parametrized type for this generic.(Î—€:8ØŒÒòà1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…óöÛ8æ¦Ïòà1
+X	java:S125"<This block of commented-out lines of code should be removed.(•ÿ†–8¹òÑòà1
+L	java:S106"+Replace this use of System.out by a logger.(¡ûï»ûÿÿÿÿ8ëŒÒòà1
+Z
+java:S1128	"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ºòÑòà1
