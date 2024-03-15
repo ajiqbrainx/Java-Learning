@@ -1,48 +1,0 @@
-
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( µî¾ûÿÿÿÿ8›®âç´1
-G	java:S106
-"+Replace this use of System.out by a logger.(ÿ¦“Ä8›®âç´1
-^
-java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(²–­¤ûÿÿÿÿ8©çãç´1
-^
-java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(²–­¤ûÿÿÿÿ8©çãç´1
-^
-java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(²–­¤ûÿÿÿÿ8©çãç´1
-^
-java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(²–­¤ûÿÿÿÿ8©çãç´1
-^
-java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(²–­¤ûÿÿÿÿ8©çãç´1
-^
-java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(²–­¤ûÿÿÿÿ8©çãç´1
-^
-java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(²–­¤ûÿÿÿÿ8©çãç´1
-^
-java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(²–­¤ûÿÿÿÿ8©çãç´1
-^
-java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(²–­¤ûÿÿÿÿ8©çãç´1
-^
-java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(²–­¤ûÿÿÿÿ8©çãç´1
-^
-java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(²–­¤ûÿÿÿÿ8©çãç´1
-^
-java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(²–­¤ûÿÿÿÿ8©çãç´1
-^
-java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(²–­¤ûÿÿÿÿ8©çãç´1
-^
-java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(²–­¤ûÿÿÿÿ8©çãç´1
-^
-java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(²–­¤ûÿÿÿÿ8©çãç´1
-^
-java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(²–­¤ûÿÿÿÿ8©çãç´1
-^
-java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(²–­¤ûÿÿÿÿ8©çãç´1
-^
-java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(²–­¤ûÿÿÿÿ8©çãç´1
-^
-java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(²–­¤ûÿÿÿÿ8©çãç´1
-^
-java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(²–­¤ûÿÿÿÿ8©çãç´1
-G	java:S106"+Replace this use of System.out by a logger.(ûåóˆ8¾™äç´1
-G	java:S106"+Replace this use of System.out by a logger.(äã–8¾™äç´1
-v
-java:S5843"TSimplify this regular expression to reduce its complexity from 76 to the 20 allowed.(²–­¤ûÿÿÿÿ8¹çãç´1

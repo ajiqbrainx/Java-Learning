@@ -1,11 +1,0 @@
-
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õœÉ¥ÿÿÿÿÿ
-Z
-java:S1854"=Remove this useless assignment to local variable "character".(Á§ÜÚ8¢…çÃ–1
-K
-java:S1481".Remove this unused "character" local variable.(Á§ÜÚ8¥…çÃ–1
-W
-java:S1126"AReplace this if-then-else statement by a single return statement.(ªÑ¥…
-G	java:S106"+Replace this use of System.out by a logger.(öˆú«8¯üçÃ–1
-P
-java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8·äçÃ–1

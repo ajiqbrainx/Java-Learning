@@ -3,8 +3,8 @@ package Mine.Basics;
 public class StrCheck {
     public static void main(String[] args) {
 
-        String a1 = "ebc";
-        String a2 = "efd";
+        String a1 = "ebb";
+        String a2 = "eff";
 
         boolean output = false;
 

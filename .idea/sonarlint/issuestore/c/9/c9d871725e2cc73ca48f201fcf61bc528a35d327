@@ -1,16 +1,0 @@
-
-\
-java:S1192"FDefine a constant instead of duplicating this literal "Ajith" 4 times.(ò¢¹ë
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀîéÉÿÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(ÌşÀ©ÿÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(”Çæûÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Ñøø˜
-S	java:S106"9Replace this use of System.out or System.err by a logger.(“‹‘¹ûÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ŒëŒŞÿÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(°×ëÃ
-?
-java:S1197"*Move the array designators [] to the type.(Ô·³
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ïĞ›
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(‘ó–ÿùÿÿÿÿ8îÆõ¢0
-|
-java:S2159"ZRemove this call to "equals"; comparisons between a type and an array always return false.(‘ó–ÿùÿÿÿÿ8Ç„¢õ¢0

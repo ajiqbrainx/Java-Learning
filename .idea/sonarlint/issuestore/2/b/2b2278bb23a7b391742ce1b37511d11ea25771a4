@@ -1,12 +1,0 @@
-
-a
-java:S1192"FDefine a constant instead of duplicating this literal "Ajith" 4 times.(èÚ¨øÿÿÿÿ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Êı­şÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(¾·¦ùÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(°×ëÃ
-Q	java:S125"<This block of commented-out lines of code should be removed.(Öø³Á
-@
-java:S1197#"*Move the array designators [] to the type.(ŸèØ…
-Q	java:S125"<This block of commented-out lines of code should be removed.(ÜÜ¡
-V	java:S125"<This block of commented-out lines of code should be removed.(ŒÉ„İıÿÿÿÿ
-N	java:S106("9Replace this use of System.out or System.err by a logger.(Ö¨åı

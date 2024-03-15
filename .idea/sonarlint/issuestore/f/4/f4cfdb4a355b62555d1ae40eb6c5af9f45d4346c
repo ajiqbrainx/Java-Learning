@@ -1,9 +1,0 @@
-
-K
-java:S1066"/Merge this if statement with the enclosing one.(²ˆÊX8êÚ–²1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“œåá8–êÚ–²1
-{
-java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Í¬‚Àùÿÿÿÿ8ÏêÚ–²1
-G	java:S106"+Replace this use of System.out by a logger.(¡Á¥Ï8ÏêÚ–²1
-L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÏêÚ–²1
-L	java:S106""+Replace this use of System.out by a logger.(Â©ß×ÿÿÿÿÿ8ÏêÚ–²1

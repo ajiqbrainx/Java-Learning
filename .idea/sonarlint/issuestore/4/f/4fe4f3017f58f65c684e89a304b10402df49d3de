@@ -1,8 +1,0 @@
-
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Êı­şÿÿÿÿ
-S
-java:S1610"8Convert the abstract class "AbsClass" into an interface.(ƒÚ„§ıÿÿÿÿ
-
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(êÀ—¸8¶êš¦¢0
-N	java:S106'"9Replace this use of System.out or System.err by a logger.(…î“
-Z	java:S106("9Replace this use of System.out or System.err by a logger.(™ıÒøÿÿÿÿ8ê¿÷¥¢0

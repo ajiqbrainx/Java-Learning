@@ -1,8 +1,0 @@
-
-y	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(°ñÆõşÿÿÿÿ8êƒóäÎ1
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õœÉ¥ÿÿÿÿÿ8êƒóäÎ1
-G	java:S106"+Replace this use of System.out by a logger.(‚¨Ö§8š„óäÎ1
-L	java:S106"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8š„óäÎ1
-L	java:S106"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8š„óäÎ1
-M
-java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18×ö—æÎ1

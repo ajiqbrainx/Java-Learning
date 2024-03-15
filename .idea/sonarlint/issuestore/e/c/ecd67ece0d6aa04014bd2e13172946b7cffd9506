@@ -1,6 +1,0 @@
-
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯ñ¿ï
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(­¸¤Êúÿÿÿÿ8Ÿ‘‰ô¾0
-X	java:S125"<This block of commented-out lines of code should be removed.(óÖ×8 ‘‰ô¾0
-Z
-java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8×ÛØÇ¿0
