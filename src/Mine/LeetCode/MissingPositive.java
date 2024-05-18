@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class MissingPositive {
     public static void main(String[] args) {
 
-        int[] nums = {1, 2, 0, 1};
+        int[] nums = {44, 22, 33, 11};
 
         int output = 1;
         Arrays.sort(nums);
