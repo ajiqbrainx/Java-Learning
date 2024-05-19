@@ -1,6 +1,6 @@
-package LeetCode;
+package Mine.LeetCode;
 
-import java.util.Arrays;
+import java.util.*;
 
 public class ClosestTarget {
     public static void main(String[] args) {
@@ -74,5 +74,8 @@ public class ClosestTarget {
 
         }
         System.out.println(output);
+
+
     }
+
 }
