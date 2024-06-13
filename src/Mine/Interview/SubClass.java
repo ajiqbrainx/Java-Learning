@@ -1,4 +1,4 @@
-package Interview;
+package Mine.Interview;
 
 public class SubClass {
      void privatCheck(){

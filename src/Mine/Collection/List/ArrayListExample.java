@@ -16,6 +16,8 @@ public class ArrayListExample {
         number.add(4, 27);
 
 
+
+
 //        for (int i = 1; i <= 100; i++) {
 //            number.add(i);
 //        }

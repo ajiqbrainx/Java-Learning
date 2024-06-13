@@ -11,6 +11,10 @@ public class LinkedListExample {
         linkedList.add(1);
         linkedList.add(23);
         linkedList.add(78);
+
+        System.out.println(linkedList);
+
+        linkedList.pollFirst();
         System.out.println(linkedList);
         linkedList.addFirst(2);
         linkedList.addLast(90);
