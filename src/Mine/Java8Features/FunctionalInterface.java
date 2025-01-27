@@ -1,4 +1,4 @@
-package Java8Features;
+package Mine.Java8Features;
 
 @java.lang.FunctionalInterface
 interface InterfaceFun {

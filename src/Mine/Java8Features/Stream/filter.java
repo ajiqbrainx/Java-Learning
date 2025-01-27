@@ -1,4 +1,4 @@
-package Mine.Stream;
+package Mine.Java8Features.Stream;
 
 import java.util.Arrays;
 import java.util.List;
