@@ -3,6 +3,8 @@ package Mine.AccessSpecifier;
 public class ProtectedEx {
     protected int a=90;
     protected int b=18;
+
+
 }
 class Pro extends ProtectedEx{
     void add(){

@@ -1,4 +1,4 @@
-package Interview;
+package Mine.Interview;
 
  class ProtectedCheck {
     protected void check(){
