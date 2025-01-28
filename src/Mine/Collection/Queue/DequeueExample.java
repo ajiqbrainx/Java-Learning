@@ -13,9 +13,10 @@ public class DequeueExample {
         number.add(22);
         number.add(32);
 
+        number.poll();
         System.out.println(number);
         number.addLast(29);
-        number.addFirst(00);
+        number.addFirst(1);
         System.out.println(number);
 
         Deque<String>name=new LinkedList<>();
