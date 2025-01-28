@@ -6,7 +6,7 @@ class Odd extends Thread {
 
     public synchronized void run() {
         for (int i = 1; i <= 10; i += 2) {
-            System.out.println(i);
+            System.out.println("odd" + i);
         }
         try {
             wait();
@@ -21,11 +21,9 @@ class Even extends Thread {
 
     public synchronized void run() {
         for (int i = 2; i <= 10; i += 2) {
-            System.out.println(i);
+            System.out.println("even" + i);
         }
         notify();
-
-
 
 
     }
@@ -46,6 +44,8 @@ public class OddEven {
 
         even.start();
 //        System.out.println("even...Done");
+
+
 
     }
 }

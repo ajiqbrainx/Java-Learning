@@ -22,7 +22,7 @@ class MyThread implements Runnable {
     }
 
     public void run() {
-        for (int i = 0; i < 10000; i++) {
+        for (int i = 0; i < 10; i++) {
             System.out.println(i);
             try {
                 Thread.sleep(1000);
@@ -38,14 +38,21 @@ public class CounterExample {
     public static void main(String[] args) throws InterruptedException {
         Counter counter = new Counter();
 
-        Thread thread1 = new Thread(new MyThread(counter));
-        Thread thread2 = new Thread(new MyThread(counter));
+//        Thread thread1 = new Thread(new MyThread(counter));
+//        Thread thread2 = new Thread(new MyThread(counter));
+//
+//        thread1.start();
+//        thread2.start();
+//
+//        thread1.join();
+//        thread2.join();
 
-        thread1.start();
-        thread2.start();
+        MyThread task1 = new MyThread(counter);
+        task1.run();
 
-        thread1.join();
-        thread2.join();
+        MyThread task2 = new MyThread(counter);
+        task2.run();
+
 
         System.out.println("Final count: " + counter.getCount());
     }
