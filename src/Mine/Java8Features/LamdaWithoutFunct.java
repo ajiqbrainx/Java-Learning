@@ -1,4 +1,4 @@
-package Java8Features;
+package Mine.Java8Features;
 
 import java.util.ArrayList;
 import java.util.function.Consumer;

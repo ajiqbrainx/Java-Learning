@@ -14,6 +14,7 @@ public class SetExample {
         number.add(9);
         number.add(3);
         number.add(4);
+        number.remove(5);
         System.out.println(number);
 
     }

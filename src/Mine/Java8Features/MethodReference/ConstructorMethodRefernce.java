@@ -1,4 +1,4 @@
-package Java8Features.MethodReference;
+package Mine.Java8Features.MethodReference;
 
 interface View1 {
     void check();

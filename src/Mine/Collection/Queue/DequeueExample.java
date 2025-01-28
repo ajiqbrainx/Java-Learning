@@ -13,7 +13,7 @@ public class DequeueExample {
         number.add(22);
         number.add(32);
 
-        number.poll();
+        number.poll();  //Means remove head of the element
         System.out.println(number);
         number.addLast(29);
         number.addFirst(1);
