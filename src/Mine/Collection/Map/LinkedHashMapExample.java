@@ -4,8 +4,7 @@ import java.util.LinkedHashMap;
 
 public class LinkedHashMapExample {
     public static void main(String[] args) {
-        LinkedHashMap<String, Integer> nameAge = new LinkedHashMap<>();  // Simlar to Hashmap is advantage is Order of
-//        elements is provided ....
+        LinkedHashMap<String, Integer> nameAge = new LinkedHashMap<>();
 
         nameAge.put("Abi", 22);
         nameAge.put("Ajith", 23);
