@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class RotateArray {
     public static void main(String[] args) {
 
-        int[] array = {0,1,2};
+        int[] array = {10,20,30,40,50};
         var output = rotateArray(array, 2, array.length - 1,0);
         System.out.println(Arrays.toString(output));
 
