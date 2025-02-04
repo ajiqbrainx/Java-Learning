@@ -5,21 +5,23 @@ import java.util.Arrays;
 public class SortArray {
     public static void main(String[] args) {
 
-        int array[] = {10, 2, 3, 1, 33, 0,2,23,1,0};
-        Arrays.stream(array).forEach(f -> System.out.print(f + " "));
-
+        int array[] = {1, 22, 332, 13, 4, 5};
+        Arrays.stream(array).forEach(System.out::println);
+        System.out.println();
+        int temp;
 
         for (int i = 0; i < array.length; i++) {
             for (int j = i; j < array.length; j++) {
+
                 if (array[i] > array[j]) {
-                    int firstElement = array[i];
-                    array[i] = array[j];
-                    array[j] = firstElement;
+                   temp = array[i];
+                   array[i] = array[j];
+                   array[j]=temp;
                 }
+
+
             }
         }
-        System.out.println();
-        Arrays.stream(array).forEach(f -> System.out.print(f + " "));
-
+        Arrays.stream(array).forEach(System.out::println);
     }
 }
