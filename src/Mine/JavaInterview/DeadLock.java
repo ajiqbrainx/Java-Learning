@@ -1,4 +1,4 @@
-package JavaInterview;
+package Mine.JavaInterview;
 
 public class DeadLock {
 
@@ -11,18 +11,20 @@ public class DeadLock {
         Thread thread1 = new Thread(() -> {
             synchronized (object1) {
                 System.out.println("Thread is 1 hold 1");
+                synchronized (object2) {
+                    System.out.println("Thread is 1 Hold 2");
+                }
             }
-            synchronized (object2) {
-                System.out.println("Thread is 1 Hold 2");
-            }
+
         });
         Thread thread2 = new Thread(() -> {
             synchronized (object2) {
                 System.out.println("Thread is 2 hold 1");
+                synchronized (object1) {
+                    System.out.println("Thread is 2 Hold 2");
+                }
             }
-            synchronized (object1) {
-                System.out.println("Thread is 2 Hold 2");
-            }
+
         });
         thread1.start();
         thread2.start();
