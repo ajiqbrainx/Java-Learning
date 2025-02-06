@@ -1,16 +1,16 @@
-package JavaInterview;
+package Mine.JavaInterview;
 
 public class SecondLargestArray {
 
     private static int findSecondHighest(int[] array) {
-        int highest = Integer.MIN_VALUE;
-        int secondHighest = Integer.MIN_VALUE;
+        int highest = 0;
+        int secondHighest = 0;
 
         for (int i : array) {
             if (i > highest) {
                 secondHighest = highest;
                 highest = i;
-            } else if (i > secondHighest) {
+            } else if (i > secondHighest ) {
                 secondHighest = i;
             }
 
@@ -18,7 +18,7 @@ public class SecondLargestArray {
         return secondHighest;
     }
     public static void main(String[] args) {
-        int[] a = {1, 233, 49, 6, 4, 3};
+        int[] a = {100, 233, 49, 6, 4, 223};
         findSecondHighest(a);
 
         System.out.println(findSecondHighest(a));
