@@ -1,7 +1,11 @@
 package Mine.StackVsHeap;
 
 
+import java.io.InputStream;
+import java.util.Collections;
 import java.util.Scanner;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 
 public class StackVsHeap {
     public static void main(String[] args) {
@@ -30,5 +34,9 @@ public class StackVsHeap {
         sb.append("Hello");
         sb.append(" World");
         String result = sb.toString();  // New string in heap
+
+        System.out.println("sdfsd");
+      var ss=  IntStream.rangeClosed(0,1).boxed().collect(Collectors.toList());
+        System.out.println(ss);
     }
 }

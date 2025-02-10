@@ -20,5 +20,9 @@ public class PyramidFull {
 
         }
 
+//        2 -1 = 1
+//        4 -1 =3
+
+
     }
 }
