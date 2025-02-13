@@ -1,13 +1,16 @@
 package ETI.Practise;
 
 import javax.print.DocFlavor;
+import java.util.LinkedHashSet;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Set;
 
 public class LongestPalindrome {
     public static void main(String[] args) {
 
         String name = "asdabaaabber";
+
 
         StringBuilder stringBuilder = new StringBuilder();
         List<String> list = new LinkedList<>();
