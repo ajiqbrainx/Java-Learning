@@ -23,6 +23,7 @@ public class RotateLeft {
 
 
 
+
         System.out.println();
         Arrays.stream(array).forEach(f -> System.out.print(f + " "));
     }
