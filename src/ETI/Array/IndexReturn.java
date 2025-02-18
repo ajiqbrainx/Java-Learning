@@ -5,9 +5,12 @@ public class IndexReturn {
         int[] array = {10, 20, 30, 40, 50};
 
         int findValue = 50;
-        int index = 0;
-        for (index; index < array.length; index++) {
+        for (int index = 0; index < array.length; index++) {
 
+            if (findValue == array[index]) {
+                System.out.println(findValue + " index is " + index);
+                break;
+            }
         }
     }
 }
