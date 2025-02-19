@@ -18,6 +18,6 @@ public class TwoVariable {
 
     public static void main(String[] args) {
 
-        System.out.println(twoVariable(2, -33, 1, false));
+        System.out.println(twoVariable(2, 3, 1, false));
     }
 }
