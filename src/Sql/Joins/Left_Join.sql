@@ -4,6 +4,8 @@
 select Employees.EmployeeID , Employees.Name ,Departments.DepartmentName
  from Employees left join Departments on Employees.DepartmentId = Departments.DepartmentID;
 
+SELECT order_id,item,first_name FROM Orders
+left join Customers on Customers.customer_id = Orders.customer_id;
 
 employeeid	  name	departmentid
 1	         John	      101
