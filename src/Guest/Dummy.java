@@ -5,12 +5,12 @@ public class Dummy {
 
     public static void main(String[] args) {
         String name = "character";
-        String output="";
+        StringBuilder output= new StringBuilder();
         System.out.println(name);
         for (int i = 0; i < name.length(); i++) {
             char ch = name.charAt(i);
             if (ch != 'a') {
-                output=output+ch;
+                output.append(ch);
             }
         }
         System.out.println(output);
