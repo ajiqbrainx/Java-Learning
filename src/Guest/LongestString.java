@@ -18,8 +18,8 @@ public class LongestString {
                     check.add(inputChar);
                 } else {
                     StringBuilder stringBuilder = new StringBuilder();
-                    for (int k = 0; k < check.size(); k++) {
-                        stringBuilder.append(check.get(k));
+                    for (Character character : check) {
+                        stringBuilder.append(character);
                     }
                     outputList.add(stringBuilder.toString());
                     break;
