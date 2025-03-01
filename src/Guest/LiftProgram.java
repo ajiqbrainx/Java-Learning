@@ -2,7 +2,6 @@ package Guest;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Scanner;
 
 public class LiftProgram {
     public static void main(String[] args) {
